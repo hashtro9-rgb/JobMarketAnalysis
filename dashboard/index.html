@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Job Market Intelligence Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div class="app">
+  <aside class="sidebar">
+    <div class="sidebar-brand">Job Market Intel<div class="sub">Data Analyst Roles</div></div>
+    <nav>
+      <a class="nav-item active" data-tab="overview">Overview</a>
+      <a class="nav-item" data-tab="skills">Skills</a>
+      <a class="nav-item" data-tab="salary">Salary</a>
+      <a class="nav-item" data-tab="geography">Geography</a>
+      <a class="nav-item" data-tab="trends">Trends</a>
+      <a class="nav-item" data-tab="jobs">Jobs</a>
+    </nav>
+    <div class="sidebar-footer" id="footer-note">Loading...</div>
+  </aside>
+
+  <main class="main">
+
+    <section class="tab-panel active" id="tab-overview">
+      <div class="kpi-row" id="overview-kpis"></div>
+      <div class="grid-2">
+        <div class="chart-card"><div class="chart-title">Top Skills</div><div class="chart-body"><canvas id="chart-top-skills"></canvas></div></div>
+        <div class="chart-card"><div class="chart-title">Work Setup</div><div class="chart-body"><canvas id="chart-work-setup"></canvas></div></div>
+      </div>
+      <div class="grid-2">
+        <div class="chart-card"><div class="chart-title">Experience Level</div><div class="chart-body"><canvas id="chart-experience"></canvas></div></div>
+        <div class="chart-card"><div class="chart-title">Postings by Month</div><div class="chart-body"><canvas id="chart-monthly-overview"></canvas></div></div>
+      </div>
+    </section>
+
+    <section class="tab-panel" id="tab-skills">
+      <div class="grid-1">
+        <div class="chart-card"><div class="chart-title">All Skills — Demand</div><div class="chart-body tall"><canvas id="chart-all-skills"></canvas></div></div>
+      </div>
+      <div class="grid-2">
+        <div class="chart-card"><div class="chart-title">Top Skill Combinations</div><div class="chart-body tall"><canvas id="chart-skill-pairs"></canvas></div></div>
+        <div class="chart-card"><div class="chart-title">Skill Demand vs Avg Salary</div><div class="chart-body tall"><canvas id="chart-skill-scatter"></canvas></div></div>
+      </div>
+    </section>
+
+    <section class="tab-panel" id="tab-salary">
+      <div class="kpi-row" id="salary-kpis"></div>
+      <div class="grid-2">
+        <div class="chart-card"><div class="chart-title">Salary Distribution (Annualized USD)</div><div class="chart-body"><canvas id="chart-salary-hist"></canvas></div></div>
+        <div class="chart-card"><div class="chart-title">Avg Salary by Experience</div><div class="chart-body"><canvas id="chart-salary-experience"></canvas></div></div>
+      </div>
+      <div class="grid-2">
+        <div class="chart-card"><div class="chart-title">Avg Salary by Skill (min 3 postings)</div><div class="chart-body tall"><canvas id="chart-salary-skill"></canvas></div></div>
+        <div class="chart-card"><div class="chart-title">Avg Salary by Company (top 15)</div><div class="chart-body tall"><canvas id="chart-salary-company"></canvas></div></div>
+      </div>
+    </section>
+
+    <section class="tab-panel" id="tab-geography">
+      <div class="grid-1">
+        <div class="chart-card"><div class="chart-title">Top 20 Countries by Demand</div><div class="chart-body tall"><canvas id="chart-countries"></canvas></div></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-title">Country Detail</div>
+        <div class="table-wrap"><table id="table-countries"><thead></thead><tbody></tbody></table></div>
+      </div>
+    </section>
+
+    <section class="tab-panel" id="tab-trends">
+      <div class="grid-1">
+        <div class="chart-card"><div class="chart-title">Postings by Month</div><div class="chart-body"><canvas id="chart-monthly-trend"></canvas></div></div>
+      </div>
+      <div class="grid-1">
+        <div class="chart-card"><div class="chart-title">Top Hiring Companies</div><div class="chart-body tall"><canvas id="chart-top-companies"></canvas></div></div>
+      </div>
+    </section>
+
+    <section class="tab-panel" id="tab-jobs">
+      <div class="filter-bar">
+        <input type="text" id="f-search" placeholder="Search title or company..." />
+        <select id="f-experience"><option value="all">All Experience</option></select>
+        <select id="f-setup"><option value="all">All Work Setup</option></select>
+        <span class="result-count" id="result-count"></span>
+      </div>
+      <div class="table-wrap"><table id="table-jobs"><thead></thead><tbody></tbody></table></div>
+    </section>
+
+  </main>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

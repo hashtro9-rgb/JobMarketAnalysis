@@ -1,0 +1,21 @@
+{
+  "experience_level": {
+    "Not Specified": 215,
+    "Mid Level": 127,
+    "Senior Level": 101,
+    "Entry Level": 19,
+    "Lead/Principal": 11
+  },
+  "work_setup": {
+    "Remote": 447,
+    "Hybrid": 26
+  },
+  "employment_type": {
+    "FULL_TIME": 407,
+    "CONTRACTOR": 43,
+    "TEMPORARY": 8,
+    "INTERN": 7,
+    "PART_TIME": 5,
+    "OTHER": 3
+  }
+}

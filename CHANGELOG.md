@@ -20,3 +20,9 @@ idempotent loader.
 EDA notebook (`notebooks/eda.ipynb`) — Plotly, executed end-to-end with real
 outputs across pricing, sales, skills, geography, salary, and hiring-trend
 analyses.
+## v0.6.0 — 2026-07-07
+
+Power BI data layer: 11 analytical SQL views (`database/views.sql`), a
+star-schema CSV export with a generated Date dimension
+(`dashboard/powerbi_data/`), and a full page-by-page report design spec
+(`docs/powerbi_design_spec.md`).

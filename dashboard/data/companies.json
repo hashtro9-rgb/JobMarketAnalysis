@@ -1,0 +1,182 @@
+[
+  {
+    "company": "TELUS Digital",
+    "postings": 9,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Tabby",
+    "postings": 7,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Capgemini Technology Services",
+    "postings": 6,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "YipitData",
+    "postings": 5,
+    "avg_salary": 163000.0,
+    "n_salaried": 5.0
+  },
+  {
+    "company": "Paired",
+    "postings": 5,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Lennor Group",
+    "postings": 5,
+    "avg_salary": 650000.0,
+    "n_salaried": 2.0
+  },
+  {
+    "company": "The Kraft Heinz Company",
+    "postings": 4,
+    "avg_salary": 94275.0,
+    "n_salaried": 4.0
+  },
+  {
+    "company": "Mercor",
+    "postings": 4,
+    "avg_salary": 205000.0,
+    "n_salaried": 4.0
+  },
+  {
+    "company": "Pavago",
+    "postings": 4,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "CI&T",
+    "postings": 4,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "micro1",
+    "postings": 4,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Comfrt",
+    "postings": 3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Fusemachines",
+    "postings": 3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "KMC Solutions Inc",
+    "postings": 3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Ryz Labs",
+    "postings": 3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Walmart - Internal",
+    "postings": 3,
+    "avg_salary": 126167.0,
+    "n_salaried": 3.0
+  },
+  {
+    "company": "Danaher",
+    "postings": 3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "LexisNexis",
+    "postings": 3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "postings": 3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Capitex",
+    "postings": 3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Averna",
+    "postings": 3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Truelogic",
+    "postings": 3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Remote VA",
+    "postings": 3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Stride, Inc.",
+    "postings": 3,
+    "avg_salary": 78975.0,
+    "n_salaried": 2.0
+  },
+  {
+    "company": "AssistRx",
+    "postings": 3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "company": "Spring Health",
+    "postings": 3,
+    "avg_salary": 118450.0,
+    "n_salaried": 3.0
+  },
+  {
+    "company": "Chainlink Labs",
+    "postings": 2,
+    "avg_salary": 158000.0,
+    "n_salaried": 1.0
+  },
+  {
+    "company": "DaVita Kidney Care",
+    "postings": 2,
+    "avg_salary": 71392.0,
+    "n_salaried": 2.0
+  },
+  {
+    "company": "Remote World",
+    "postings": 2,
+    "avg_salary": 24762.0,
+    "n_salaried": 2.0
+  },
+  {
+    "company": "Improvado",
+    "postings": 2,
+    "avg_salary": 95000.0,
+    "n_salaried": 2.0
+  }
+]

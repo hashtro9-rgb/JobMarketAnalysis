@@ -1,0 +1,37 @@
+[
+  {
+    "experience_level": "Entry Level",
+    "avg_salary": 75473.0,
+    "min_salary": 16579.0,
+    "max_salary": 96000.0,
+    "n_salaried": 7
+  },
+  {
+    "experience_level": "Mid Level",
+    "avg_salary": 91675.0,
+    "min_salary": 3080.0,
+    "max_salary": 167500.0,
+    "n_salaried": 46
+  },
+  {
+    "experience_level": "Senior Level",
+    "avg_salary": 111162.0,
+    "min_salary": 50000.0,
+    "max_salary": 185000.0,
+    "n_salaried": 42
+  },
+  {
+    "experience_level": "Lead/Principal",
+    "avg_salary": 139129.0,
+    "min_salary": 110000.0,
+    "max_salary": 163638.0,
+    "n_salaried": 5
+  },
+  {
+    "experience_level": "Not Specified",
+    "avg_salary": 124992.0,
+    "min_salary": 2511.0,
+    "max_salary": 650000.0,
+    "n_salaried": 43
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "skill": "SQL",
+    "postings": 373,
+    "pct": 78.9,
+    "avg_salary": 109586.0,
+    "n_salaried": 113.0
+  },
+  {
+    "skill": "Python",
+    "postings": 223,
+    "pct": 47.1,
+    "avg_salary": 118010.0,
+    "n_salaried": 69.0
+  },
+  {
+    "skill": "Tableau",
+    "postings": 197,
+    "pct": 41.6,
+    "avg_salary": 97331.0,
+    "n_salaried": 62.0
+  },
+  {
+    "skill": "Power BI",
+    "postings": 186,
+    "pct": 39.3,
+    "avg_salary": 89047.0,
+    "n_salaried": 57.0
+  },
+  {
+    "skill": "Excel",
+    "postings": 184,
+    "pct": 38.9,
+    "avg_salary": 90451.0,
+    "n_salaried": 67.0
+  },
+  {
+    "skill": "Statistics",
+    "postings": 108,
+    "pct": 22.8,
+    "avg_salary": 93560.0,
+    "n_salaried": 35.0
+  },
+  {
+    "skill": "R",
+    "postings": 97,
+    "pct": 20.5,
+    "avg_salary": 125367.0,
+    "n_salaried": 46.0
+  },
+  {
+    "skill": "Snowflake",
+    "postings": 65,
+    "pct": 13.7,
+    "avg_salary": 102858.0,
+    "n_salaried": 24.0
+  },
+  {
+    "skill": "ETL",
+    "postings": 59,
+    "pct": 12.5,
+    "avg_salary": 100378.0,
+    "n_salaried": 9.0
+  },
+  {
+    "skill": "AWS",
+    "postings": 31,
+    "pct": 6.6,
+    "avg_salary": 87215.0,
+    "n_salaried": 8.0
+  },
+  {
+    "skill": "Machine Learning",
+    "postings": 30,
+    "pct": 6.3,
+    "avg_salary": 96663.0,
+    "n_salaried": 6.0
+  },
+  {
+    "skill": "Pandas",
+    "postings": 23,
+    "pct": 4.9,
+    "avg_salary": 105958.0,
+    "n_salaried": 5.0
+  },
+  {
+    "skill": "Azure",
+    "postings": 23,
+    "pct": 4.9,
+    "avg_salary": 106432.0,
+    "n_salaried": 2.0
+  },
+  {
+    "skill": "Git",
+    "postings": 19,
+    "pct": 4.0,
+    "avg_salary": 97241.0,
+    "n_salaried": 8.0
+  },
+  {
+    "skill": "Google Cloud",
+    "postings": 14,
+    "pct": 3.0,
+    "avg_salary": 89433.0,
+    "n_salaried": 3.0
+  },
+  {
+    "skill": "Spark",
+    "postings": 13,
+    "pct": 2.7,
+    "avg_salary": 118625.0,
+    "n_salaried": 4.0
+  },
+  {
+    "skill": "NumPy",
+    "postings": 11,
+    "pct": 2.3,
+    "avg_salary": null,
+    "n_salaried": null
+  },
+  {
+    "skill": "Docker",
+    "postings": 7,
+    "pct": 1.5,
+    "avg_salary": 95000.0,
+    "n_salaried": 2.0
+  }
+]

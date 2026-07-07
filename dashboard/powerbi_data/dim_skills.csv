@@ -1,0 +1,19 @@
+﻿skill_id,skill_name
+1,SQL
+2,Python
+3,Excel
+4,Tableau
+5,R
+6,Snowflake
+7,Pandas
+8,Machine Learning
+9,Power BI
+10,NumPy
+11,Statistics
+12,Spark
+13,Git
+14,Docker
+15,ETL
+16,Google Cloud
+17,AWS
+18,Azure

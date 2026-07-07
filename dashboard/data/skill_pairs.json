@@ -1,0 +1,102 @@
+[
+  {
+    "skill_a": "Python",
+    "skill_b": "SQL",
+    "co_occurrences": 215
+  },
+  {
+    "skill_a": "SQL",
+    "skill_b": "Tableau",
+    "co_occurrences": 181
+  },
+  {
+    "skill_a": "Power BI",
+    "skill_b": "SQL",
+    "co_occurrences": 162
+  },
+  {
+    "skill_a": "Excel",
+    "skill_b": "SQL",
+    "co_occurrences": 140
+  },
+  {
+    "skill_a": "Power BI",
+    "skill_b": "Tableau",
+    "co_occurrences": 122
+  },
+  {
+    "skill_a": "Python",
+    "skill_b": "Tableau",
+    "co_occurrences": 113
+  },
+  {
+    "skill_a": "SQL",
+    "skill_b": "Statistics",
+    "co_occurrences": 99
+  },
+  {
+    "skill_a": "Power BI",
+    "skill_b": "Python",
+    "co_occurrences": 91
+  },
+  {
+    "skill_a": "R",
+    "skill_b": "SQL",
+    "co_occurrences": 90
+  },
+  {
+    "skill_a": "Excel",
+    "skill_b": "Power BI",
+    "co_occurrences": 90
+  },
+  {
+    "skill_a": "Python",
+    "skill_b": "R",
+    "co_occurrences": 87
+  },
+  {
+    "skill_a": "Excel",
+    "skill_b": "Tableau",
+    "co_occurrences": 80
+  },
+  {
+    "skill_a": "Excel",
+    "skill_b": "Python",
+    "co_occurrences": 75
+  },
+  {
+    "skill_a": "Python",
+    "skill_b": "Statistics",
+    "co_occurrences": 68
+  },
+  {
+    "skill_a": "SQL",
+    "skill_b": "Snowflake",
+    "co_occurrences": 64
+  },
+  {
+    "skill_a": "Statistics",
+    "skill_b": "Tableau",
+    "co_occurrences": 62
+  },
+  {
+    "skill_a": "Power BI",
+    "skill_b": "Statistics",
+    "co_occurrences": 59
+  },
+  {
+    "skill_a": "R",
+    "skill_b": "Tableau",
+    "co_occurrences": 57
+  },
+  {
+    "skill_a": "Excel",
+    "skill_b": "Statistics",
+    "co_occurrences": 56
+  },
+  {
+    "skill_a": "ETL",
+    "skill_b": "SQL",
+    "co_occurrences": 55
+  }
+]

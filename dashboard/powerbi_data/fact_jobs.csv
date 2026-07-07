@@ -1,0 +1,474 @@
+﻿job_id,job_url,job_title,company_id,primary_location_id,city,salary_min_usd_annual,salary_max_usd_annual,salary_avg_usd_annual,salary_currency,employment_type,work_setup,experience_level,posting_date,valid_through,date_key
+1,https://himalayas.app/companies/mrsool/jobs/analyst-performance,"Analyst , Performance",1,1.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-04,2026-09-02,20260704
+2,https://himalayas.app/companies/safelease/jobs/data-analyst,Data Analyst,2,2.0,,,,,,FULL_TIME,Hybrid,Not Specified,2026-06-23,2026-08-22,20260623
+3,https://himalayas.app/companies/codest-ltd-company-no-12590542-vat-number-gb363431020/jobs/data-analyst,Data Analyst,3,3.0,,57497.27,67080.15,62288.70999999999,PLN,FULL_TIME,Remote,Senior Level,2026-07-03,2026-09-01,20260703
+4,https://himalayas.app/companies/comfrt/jobs/digital-data-analyst,Digital Data Analyst,4,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-29,2026-08-28,20260629
+5,https://himalayas.app/companies/eqvilent/jobs/analyst-with-python,Analyst (with Python),5,5.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-23,2026-08-22,20260623
+6,https://himalayas.app/companies/chainlink-labs/jobs/data-analyst-economics,"Data Analyst, Economics",6,7.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-17,2026-08-16,20260617
+7,https://himalayas.app/companies/campact-e-v/jobs/data-analyst-in,Data Analyst*in,7,6.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-25,2026-08-24,20260625
+8,https://himalayas.app/companies/yipitdata/jobs/data-analyst-ii,Data Analyst II,8,2.0,,165000.0,185000.0,175000.0,USD,FULL_TIME,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+9,https://himalayas.app/companies/davita-kidney-care/jobs/analyst-data-management-rops,"Analyst, Data Management (ROPS)",9,2.0,,57784.0,85000.0,71392.0,USD,FULL_TIME,Remote,Mid Level,2026-07-04,2026-09-02,20260704
+10,https://himalayas.app/companies/turtles/jobs/business-data-analyst,Business / Data Analyst,10,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-24,2026-08-23,20260624
+11,https://himalayas.app/companies/yipitdata/jobs/data-analyst-9578159879,Data Analyst,8,2.0,,130000.0,180000.0,155000.0,USD,FULL_TIME,Remote,Mid Level,2026-07-03,2026-09-01,20260703
+12,https://himalayas.app/companies/icf/jobs/rural-health-program-data-analyst,Rural Health Program Data Analyst,11,2.0,,74090.0,125954.0,100022.0,USD,FULL_TIME,Remote,Mid Level,2026-07-01,2026-08-30,20260701
+13,https://himalayas.app/companies/mondelez-international/jobs/market-analyst,Market Analyst,12,10.0,,74300.0,102190.0,88245.0,USD,FULL_TIME,Remote,Mid Level,2026-07-05,2026-09-03,20260705
+14,https://himalayas.app/companies/e-c/jobs/energy-data-analyst,Energy Data Analyst,13,11.0,,2511.3,2511.3,2511.3,EUR,FULL_TIME,Remote,Not Specified,2026-07-03,2026-09-01,20260703
+15,https://himalayas.app/companies/remote-world/jobs/data-analyst,Data Analyst,14,2.0,,25870.67,25870.67,25870.67,ZAR,FULL_TIME,Remote,Not Specified,2026-05-28,2026-07-27,20260528
+16,https://himalayas.app/companies/gan/jobs/data-analyst,Data Analyst,15,2.0,,80000.0,105000.0,92500.0,USD,FULL_TIME,Remote,Mid Level,2026-07-03,2026-09-01,20260703
+17,https://himalayas.app/companies/datasolutions/jobs/data-analyst,Data Analyst,16,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-25,2026-08-24,20260625
+18,https://himalayas.app/companies/the-league/jobs/data-analyst-product-marketing,Data Analyst - Product & Marketing,17,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-04-26,2026-07-25,20260426
+19,https://himalayas.app/companies/improvado/jobs/middle-data-analyst-marketing-agency-experience,Middle+ Data Analyst (Marketing Agency Experience),18,2.0,,70000.0,120000.0,95000.0,USD,FULL_TIME,Remote,Mid Level,2026-07-01,2026-08-30,20260701
+20,https://himalayas.app/companies/hack-the-box/jobs/data-analyst,Data Analyst,19,2.0,,95000.0,120000.0,107500.0,USD,FULL_TIME,Remote,Not Specified,2026-06-23,2026-08-22,20260623
+21,https://himalayas.app/companies/urrly/jobs/data-analyst,Data Analyst,20,9.0,,24960.0,24960.0,24960.0,USD,FULL_TIME,Remote,Not Specified,2026-06-27,2026-08-26,20260627
+22,https://himalayas.app/companies/loopback-analytics/jobs/data-analyst,Data Analyst,21,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-28,2026-08-27,20260628
+23,https://himalayas.app/companies/array/jobs/data-analyst,Data Analyst,22,5.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+24,https://himalayas.app/companies/dwelly/jobs/data-analyst,Data Analyst,23,,,,,,,FULL_TIME,Remote,Mid Level,2026-05-30,2026-07-29,20260530
+25,https://himalayas.app/companies/hire-hangar/jobs/data-analyst-4187021937,Data Analyst,24,7.0,,8400.0,36000.0,22200.0,USD,FULL_TIME,Remote,Not Specified,2026-05-26,2026-07-25,20260526
+26,https://himalayas.app/companies/libertexgroup/jobs/data-analyst-3919747387,Data Analyst,25,22.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-20,2026-07-19,20260520
+27,https://himalayas.app/companies/recidiviz/jobs/data-analyst-6153414103,Data Analyst,26,2.0,,97000.0,97000.0,97000.0,USD,FULL_TIME,Remote,Mid Level,2026-05-17,2026-07-16,20260517
+28,https://himalayas.app/companies/world-insurance-associates-llc/jobs/data-analyst,Data Analyst,27,2.0,,95000.0,110000.0,102500.0,USD,FULL_TIME,Remote,Mid Level,2026-07-03,2026-09-01,20260703
+29,https://himalayas.app/companies/comcap/jobs/data-analyst-7726404080,Data Analyst,28,7.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-24,2026-08-23,20260624
+30,https://himalayas.app/companies/nmi/jobs/product-data-analyst-acquiring-operations,Product Data Analyst - Acquiring Operations,29,5.0,,66793.22,84370.39,75581.805,CAD,FULL_TIME,Remote,Not Specified,2026-06-03,2026-08-02,20260603
+31,https://himalayas.app/companies/fusemachines/jobs/data-analyst-4442259328,Data Analyst,30,7.0,,,,,,FULL_TIME,Remote,Lead/Principal,2026-07-04,2026-09-02,20260704
+32,https://himalayas.app/companies/valerie-group/jobs/data-analyst,Data Analyst,31,1.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-13,2026-07-12,20260513
+33,https://himalayas.app/companies/nielseniq/jobs/data-operations-analyst-5216835556,Data Operations Analyst,32,23.0,,11415.0,14839.51,13127.255,EUR,FULL_TIME,Remote,Not Specified,2026-07-02,2026-08-31,20260702
+34,https://himalayas.app/companies/alpaca/jobs/data-analyst,Data Analyst,33,24.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+35,https://himalayas.app/companies/improvado/jobs/middle-marketing-data-analyst-agency-expereince,Middle+ Marketing Data Analyst (Agency Expereince),18,2.0,,70000.0,120000.0,95000.0,USD,FULL_TIME,Remote,Mid Level,2026-07-01,2026-08-30,20260701
+36,https://himalayas.app/companies/stio/jobs/data-analyst,Data Analyst,34,2.0,,85000.0,100000.0,92500.0,USD,FULL_TIME,Remote,Mid Level,2026-06-13,2026-08-12,20260613
+37,https://himalayas.app/companies/panterra-global-ltd/jobs/data-operations-associate-opinion-research,Data Operations Associate (Opinion Research),35,2.0,,90000.0,100000.0,95000.0,USD,FULL_TIME,Remote,Entry Level,2026-06-28,2026-08-27,20260628
+38,https://himalayas.app/companies/builders-firstsource/jobs/analyst-business-enablement-hq-project-leadership,"Analyst, Business Enablement HQ Project Leadership",36,2.0,,90000.0,100000.0,95000.0,USD,FULL_TIME,Remote,Not Specified,2026-05-08,2026-07-07,20260508
+39,https://himalayas.app/companies/kultremedia-llc/jobs/km-business-analyst,KM-Business Analyst,37,73.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-21,2026-08-20,20260621
+40,https://himalayas.app/companies/netomi/jobs/senior-data-analyst,Senior Data Analyst,38,1.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-23,2026-07-22,20260523
+41,https://himalayas.app/companies/9amhealth/jobs/senior-data-analyst,Senior Data Analyst,39,74.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-14,2026-07-13,20260514
+42,https://himalayas.app/companies/phase2/jobs/senior-data-analyst,Senior Data Analyst,40,2.0,,100000.0,120000.0,110000.0,USD,FULL_TIME,Remote,Senior Level,2026-06-28,2026-08-27,20260628
+43,https://himalayas.app/companies/alter-solutions/jobs/analityk-biznesowy-st,Analityk Biznesowy (ST),41,3.0,,80283.23,80283.23,80283.23,PLN,CONTRACTOR,Remote,Not Specified,2026-05-19,2026-07-18,20260519
+44,https://himalayas.app/companies/kraftheinz/jobs/sales-analyst-amazon,"Sales Analyst, Amazon",42,2.0,,77800.0,97300.0,87550.0,USD,FULL_TIME,Remote,Not Specified,2026-07-01,2026-08-30,20260701
+45,https://himalayas.app/companies/capgemini-technology-services/jobs/fbs-data-marketing-analyst-mid-level,FBS - Data Marketing Analyst (Mid Level),43,8.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-30,2026-07-29,20260530
+46,https://himalayas.app/companies/nextgen-healthcare/jobs/data-analyst-ii,Data Analyst II,44,10.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-03,2026-09-01,20260703
+47,https://himalayas.app/companies/work-mercor/jobs/data-analyst-upto-100-hr-part-time,Data Analyst | Upto $100/hr Part-time,45,2.0,,140000.0,200000.0,170000.0,USD,TEMPORARY,Remote,Not Specified,2026-05-11,2026-07-10,20260511
+48,https://himalayas.app/companies/telus-international-ai-inc/jobs/online-data-analyst-english-singapore-9870659181,Online Data Analyst - English (Singapore),46,75.0,,,,,,PART_TIME,Remote,Not Specified,2026-06-08,2026-07-08,20260608
+49,https://himalayas.app/companies/keyrus/jobs/data-analyst-pl-sr,Data Analyst (PL/SR),47,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-05-30,2026-07-29,20260530
+50,https://himalayas.app/companies/monocle-solutions/jobs/data-analyst-banking,Data Analyst (Banking),48,19.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+51,https://himalayas.app/companies/nearsource-technologies/jobs/senior-data-analyst-sql-power-bi-looker,"Senior Data Analyst (SQL, Power BI, Looker)",49,5.0,,90670.04,95057.3,92863.67,CAD,FULL_TIME,Remote,Senior Level,2026-04-10,2026-07-09,20260410
+52,https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-bd54531-senior-data-analyst,XTN-BD54531 | SENIOR DATA ANALYST,50,73.0,,,,,,FULL_TIME,Remote,Senior Level,2026-04-12,2026-07-11,20260412
+53,https://himalayas.app/companies/ryz-labs/jobs/sr-data-analyst,Sr Data Analyst,51,7.0,,,,,,CONTRACTOR,Remote,Senior Level,2026-07-05,2026-09-03,20260705
+54,https://himalayas.app/companies/resident/jobs/product-analyst,Product Analyst,52,2.0,,80000.0,110000.0,95000.0,USD,FULL_TIME,Remote,Mid Level,2026-05-29,2026-07-28,20260529
+55,https://himalayas.app/companies/monzo/jobs/senior-data-analyst-financial-health,"Senior Data Analyst, Financial Health",53,4.0,,101421.23,126776.54,114098.885,GBP,FULL_TIME,Remote,Not Specified,2026-04-11,2026-07-10,20260411
+56,https://himalayas.app/companies/ministry-of-education/jobs/principal-analyst,Principal Analyst,54,76.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-20,2026-07-19,20260520
+57,https://himalayas.app/companies/lodgify/jobs/senior-data-analyst,Senior Data Analyst,55,77.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-22,2026-07-21,20260522
+58,https://himalayas.app/companies/yipitdata/jobs/data-product-analyst-corporate,"Data Product Analyst, Corporate",8,2.0,,150000.0,150000.0,150000.0,USD,FULL_TIME,Remote,Senior Level,2026-07-01,2026-08-30,20260701
+59,https://himalayas.app/companies/lodgify/jobs/senior-growth-data-analyst,Senior Growth Data Analyst,55,77.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+60,https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-78ee376-data-analyst-bi-experience,XTN-78EE376 | DATA ANALYST (BI EXPERIENCE),50,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-04-12,2026-07-11,20260412
+61,https://himalayas.app/companies/lean-tech/jobs/mid-reporting-analyst,Mid Reporting Analyst,56,14.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-12,2026-07-11,20260512
+62,https://himalayas.app/companies/highmark-health/jobs/senior-data-analyst-2305570923,Senior Data Analyst,57,2.0,,72700.0,116600.0,94650.0,USD,FULL_TIME,Remote,Senior Level,2026-06-03,2026-08-02,20260603
+63,https://himalayas.app/companies/jobs-for-humanity/jobs/data-analyst,Data Analyst,58,2.0,,114400.0,124800.0,119600.0,USD,CONTRACTOR,Remote,Senior Level,2026-05-16,2026-07-15,20260516
+64,https://himalayas.app/companies/valce-talent-solutions/jobs/data-analyst-programmer,Data Analyst Programmer,59,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-02,2026-08-31,20260702
+65,https://himalayas.app/companies/home-depot-u-s-a-inc/jobs/sr-analyst-insights-and-analytics,"Sr. Analyst, Insights and Analytics",60,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-30,2026-07-29,20260530
+66,https://himalayas.app/companies/sigma-software-e561c036-16e4-4b2c-aa28-a33af9f3750b/jobs/senior-data-analyst,Senior Data Analyst,61,78.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+67,https://himalayas.app/companies/walmart-com/jobs/usa-senior-data-analyst,"(USA) Senior, Data Analyst",62,2.0,,80000.0,155000.0,117500.0,USD,FULL_TIME,Remote,Mid Level,2026-05-30,2026-07-29,20260530
+68,https://himalayas.app/companies/siegen-hr-solutions-inc/jobs/virtual-employment-remote-data-analyst-2298259771,Virtual Employment: Remote Data Analyst,63,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-04-10,2026-07-09,20260410
+69,https://himalayas.app/companies/red-robin/jobs/marketing-analyst-strategy-data-science,"Marketing Analyst, Strategy & Data Science",64,2.0,,72300.0,99375.0,85837.5,USD,FULL_TIME,Remote,Entry Level,2026-05-27,2026-07-26,20260527
+70,https://himalayas.app/companies/careerswift/jobs/data-analyst-junior-mid,Data Analyst Junior/Mid,65,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-16,2026-08-15,20260616
+71,https://himalayas.app/companies/bryanjohnson/jobs/product-analyst-927496753,Product Analyst,66,2.0,,90000.0,130000.0,110000.0,USD,FULL_TIME,Remote,Mid Level,2026-06-29,2026-08-28,20260629
+72,https://himalayas.app/companies/crc-group/jobs/data-analyst,Data Analyst,67,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-28,2026-08-27,20260628
+73,https://himalayas.app/companies/social-discovery-ventures/jobs/product-analyst-muslima,Product Analyst (Muslima),68,79.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+74,https://himalayas.app/companies/danaher/jobs/senior-business-analyst,Senior Business Analyst,69,4.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-29,2026-08-28,20260629
+75,https://himalayas.app/companies/wellbe-senior-medical/jobs/healthcare-reporting-analyst,Healthcare Reporting Analyst,70,2.0,,,,,,OTHER,Remote,Senior Level,2026-06-27,2026-08-26,20260627
+76,https://himalayas.app/companies/trax-technologies/jobs/logistics-data-analyst-latam,Logistics Data Analyst - LATAM,71,35.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-25,2026-08-24,20260625
+77,https://himalayas.app/companies/lexisnexis/jobs/global-operations-senior-data-analyst-i,Global Operations Senior Data Analyst I,72,4.0,,,,,,FULL_TIME,Remote,Not Specified,2026-04-21,2026-07-20,20260421
+78,https://himalayas.app/companies/kraken/jobs/senior-data-analyst-growth,"Senior Data Analyst, Growth",73,7.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-06,2026-08-05,20260606
+79,https://himalayas.app/companies/felixpago/jobs/support-operations-analyst,Support Operations Analyst,74,7.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-15,2026-07-14,20260515
+80,https://himalayas.app/companies/sbc-performance/jobs/senior-data-analyst,Senior Data Analyst,75,93.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-01,2026-08-30,20260701
+81,https://himalayas.app/companies/workwave/jobs/sales-operations-analyst,Sales Operations Analyst,76,2.0,,100000.0,120000.0,110000.0,USD,FULL_TIME,Remote,Senior Level,2026-07-03,2026-09-01,20260703
+82,https://himalayas.app/companies/keyrus/jobs/data-analyst-pleno-senior-excel-vba-e-automacao,"Data Analyst Pleno/Sênior – Excel, VBA e Automação",47,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+83,https://himalayas.app/companies/gofasti/jobs/1097-data-analyst,1097- Data Analyst,77,2.0,,18000.0,24000.0,21000.0,USD,TEMPORARY,Remote,Not Specified,2026-05-24,2026-07-23,20260524
+84,https://himalayas.app/companies/cardinal-health/jobs/data-analyst-it-service-center,"Data Analyst, IT Service Center",78,2.0,,80900.0,115500.0,98200.0,USD,FULL_TIME,Remote,Senior Level,2026-05-23,2026-07-22,20260523
+85,https://himalayas.app/companies/tort-experts/jobs/business-analyst-intake-lead-ops-marketing,Business Analyst - Intake/Lead Ops/Marketing,79,70.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-12,2026-08-11,20260612
+86,https://himalayas.app/companies/sajix-software-solution-private-limited/jobs/business-intelligence-analyst,Business Intelligence Analyst,80,2.0,,,,,,INTERN,Remote,Not Specified,2026-05-15,2026-07-14,20260515
+87,https://himalayas.app/companies/thndr/jobs/data-content-intelligence-intern,Data & Content Intelligence Intern,81,16.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-19,2026-07-18,20260519
+88,https://himalayas.app/companies/zoetis/jobs/data-analyst-dairy-predictive-solutions,"Data Analyst, Dairy Predictive Solutions",82,2.0,,115000.0,170000.0,142500.0,USD,FULL_TIME,Remote,Mid Level,2026-07-04,2026-09-02,20260704
+89,https://himalayas.app/companies/empassion/jobs/senior-data-analyst,Senior Data Analyst,83,2.0,,120000.0,160000.0,140000.0,USD,FULL_TIME,Remote,Mid Level,2026-05-04,2026-08-02,20260504
+90,https://himalayas.app/companies/marktine-technology-solutions-pvt-ltd/jobs/process-developer-data-analyst,Process Developer– Data Analyst,84,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-04-18,2026-07-17,20260418
+91,https://himalayas.app/companies/ttec-digital/jobs/senior-business-data-analyst,Senior Business Data Analyst,85,73.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+92,https://himalayas.app/companies/advarra/jobs/business-intelligence-data-analyst-ii,Business Intelligence Data Analyst II,86,2.0,,77000.0,134000.0,105500.0,USD,FULL_TIME,Remote,Mid Level,2026-06-27,2026-08-26,20260627
+93,https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/data-analytics,Data Analytics,87,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-28,2026-08-27,20260628
+94,https://himalayas.app/companies/venon-solutions/jobs/955-data-analyst,#955 - Data Analyst,88,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-15,2026-07-14,20260515
+95,https://himalayas.app/companies/betmgm/jobs/marketing-acquisition-analyst,Marketing Acquisition Analyst,89,2.0,,72320.0,94920.0,83620.0,USD,FULL_TIME,Remote,Mid Level,2026-07-03,2026-09-01,20260703
+96,https://himalayas.app/companies/gridlines/jobs/analyst-model-audit-5547563368,Analyst- Model Audit,90,8.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-19,2026-07-18,20260519
+97,https://himalayas.app/companies/spacecoast-av-consultants-llc/jobs/data-analyst,Data Analyst,91,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-04-12,2026-07-11,20260412
+98,https://himalayas.app/companies/exl/jobs/consent-data-analyst,Consent Data Analyst,92,5.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-01,2026-08-30,20260701
+99,https://himalayas.app/companies/sedgwick/jobs/senior-data-analyst,Senior Data Analyst,93,2.0,,75000.0,85000.0,80000.0,USD,FULL_TIME,Remote,Senior Level,2026-07-01,2026-08-30,20260701
+100,https://himalayas.app/companies/yipitdata/jobs/investor-research-analyst,Investor Research Analyst,8,2.0,,150000.0,150000.0,150000.0,USD,FULL_TIME,Remote,Mid Level,2026-06-23,2026-08-22,20260623
+101,https://himalayas.app/companies/solutionhealth/jobs/data-analyst-iii-it-reporting-full-time,Data Analyst III - IT Reporting - Full Time,94,1.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-08,2026-08-07,20260608
+102,https://himalayas.app/companies/concentrix/jobs/marketing-data-analyst,Marketing Data Analyst,95,9.0,,,,,,FULL_TIME,Remote,Mid Level,2026-05-18,2026-07-17,20260518
+103,https://himalayas.app/companies/capitex/jobs/us-financial-crime-data-analyst-sql-large-data-sets,US - Financial Crime Data Analyst (SQL & Large Data Sets),96,2.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-19,2026-08-18,20260619
+104,https://himalayas.app/companies/brighty-app/jobs/data-analyst,Data Analyst,97,,,34245.01,34245.01,34245.01,EUR,FULL_TIME,Hybrid,Mid Level,2026-05-02,2026-07-31,20260502
+105,https://himalayas.app/companies/crewbloom/jobs/partner-data-reporting-analyst,Partner Data & Reporting Analyst,98,1.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+106,https://himalayas.app/companies/prosidian-consulting-llc/jobs/data-analyst,Data Analyst,99,2.0,,,,,,FULL_TIME,Remote,Entry Level,2026-06-22,2026-08-21,20260622
+107,https://himalayas.app/companies/3m-consultancy/jobs/data-analyst-with-irs-mbi-clearance-required,Data Analyst with IRS MBI Clearance required.,100,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-05-27,2026-07-26,20260527
+108,https://himalayas.app/companies/capgemini-technology-services/jobs/fbs-data-analyst-power-bi,FBS - Data Analyst - Power BI,43,9.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-21,2026-08-20,20260621
+109,https://himalayas.app/companies/nexu/jobs/business-analyst,Business Analyst,101,9.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-15,2026-07-14,20260515
+110,https://himalayas.app/companies/ltg/jobs/data-analytics-consultant-affirmity-us-remote,"Data Analytics Consultant (Affirmity) US, Remote",102,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-09,2026-07-08,20260509
+111,https://himalayas.app/companies/clickview/jobs/looker-data-analyst,Looker Data Analyst,103,73.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-24,2026-08-23,20260624
+112,https://himalayas.app/companies/wellbe-senior-medical/jobs/data-systems-analyst,Data Systems Analyst,70,2.0,,90000.0,120000.0,105000.0,USD,OTHER,Remote,Senior Level,2026-06-26,2026-08-25,20260626
+113,https://himalayas.app/companies/ravio/jobs/insights-analyst,Insights Analyst,104,4.0,,50000.0,65000.0,57500.0,USD,FULL_TIME,Remote,Not Specified,2026-05-09,2026-07-08,20260509
+114,https://himalayas.app/companies/ttec-digital/jobs/senior-data-analyst,Senior Data Analyst,85,73.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-06,2026-08-05,20260606
+115,https://himalayas.app/companies/radiance-technologies-inc/jobs/junior-data-analyst,Junior Data Analyst,105,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-17,2026-08-16,20260617
+116,https://himalayas.app/companies/wood-mackenzie-inc/jobs/lead-revenue-and-data-analyst,Lead Revenue and Data Analyst,106,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-10,2026-08-09,20260610
+117,https://himalayas.app/companies/jonas-software-uk-europe/jobs/m-a-research-data-analyst,M&A Research & Data Analyst,107,4.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+118,https://himalayas.app/companies/ryz-labs/jobs/data-analyst,Data Analyst,51,7.0,,,,,,CONTRACTOR,Remote,Senior Level,2026-04-23,2026-07-22,20260423
+119,https://himalayas.app/companies/gridware-com/jobs/operations-analyst-contractor-role,Operations Analyst - Contractor Role,108,1.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-07-02,2026-08-31,20260702
+120,https://himalayas.app/companies/talent-shore/jobs/data-and-reporting-analyst,Data and Reporting Analyst,109,19.0,,,,,,FULL_TIME,Remote,Mid Level,2026-04-18,2026-07-17,20260418
+121,https://himalayas.app/companies/claritev-com/jobs/healthcare-analytics-advisor,Healthcare Analytics Advisor,110,2.0,,70000.0,75000.0,72500.0,USD,FULL_TIME,Remote,Not Specified,2026-06-05,2026-08-04,20260605
+122,https://himalayas.app/companies/ncd/jobs/data-analyst,Data Analyst,111,2.0,,,,,,FULL_TIME,Remote,Entry Level,2026-07-01,2026-08-30,20260701
+123,https://himalayas.app/companies/averna/jobs/ai-savvy-data-analyst-english-version,AI Savvy Data Analyst (English version),112,5.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-31,2026-07-30,20260531
+124,https://himalayas.app/companies/mondo-unlimited/jobs/senior-analyst-data-driven-detroit,Senior Analyst - Data Driven Detroit,113,2.0,,60000.0,60000.0,60000.0,USD,FULL_TIME,Remote,Senior Level,2026-06-19,2026-08-18,20260619
+125,https://himalayas.app/companies/groundtruth-india-pvt-ltd/jobs/senior-data-analyst,Senior Data Analyst,114,1.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-29,2026-07-28,20260529
+126,https://himalayas.app/companies/pavago/jobs/financial-data-analyst-1423837419,Financial & Data Analyst,115,8.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-13,2026-07-12,20260513
+127,https://himalayas.app/companies/virtualstaff36/jobs/data-and-reporting-analyst,Data and Reporting Analyst,116,73.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-15,2026-08-14,20260615
+128,https://himalayas.app/companies/digital-promise/jobs/contract-data-analyst,Contract Data Analyst,117,2.0,,,,,,CONTRACTOR,Hybrid,Lead/Principal,2026-06-28,2026-08-27,20260628
+129,https://himalayas.app/companies/marktine-technology-solutions-pvt-ltd/jobs/tableau-developer,Tableau Developer,84,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-04-18,2026-07-17,20260418
+130,https://himalayas.app/companies/ci-t/jobs/job-29212-senior-data-analyts-brazil,"[Job-29212] Senior Data Analyts, Brazil",118,8.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-17,2026-07-16,20260517
+131,https://himalayas.app/companies/klikit/jobs/data-analyst,Data Analyst,119,2.0,,,,,,FULL_TIME,Hybrid,Mid Level,2026-06-24,2026-08-23,20260624
+132,https://himalayas.app/companies/oddbytes/jobs/senior-data-analyst,Senior Data Analyst,120,2.0,,88000.0,112000.0,100000.0,USD,FULL_TIME,Hybrid,Senior Level,2026-06-28,2026-08-27,20260628
+133,https://himalayas.app/companies/kraken/jobs/senior-data-analyst-product,"Senior Data Analyst, Product",73,7.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-06,2026-08-05,20260606
+134,https://himalayas.app/companies/hrtx-inc/jobs/data-analyst-marketing-analyst,Data Analyst - Marketing Analyst,121,73.0,,,,,,FULL_TIME,Remote,Mid Level,2026-04-11,2026-07-10,20260411
+135,https://himalayas.app/companies/work-mercor/jobs/insights-analyst-5610071933,Insights Analyst,45,5.0,,160000.0,320000.0,240000.0,USD,TEMPORARY,Remote,Not Specified,2026-05-15,2026-07-14,20260515
+136,https://himalayas.app/companies/the-kraft-heinz-company/jobs/sr-analyst-strategic-planning-insights,"Sr Analyst, Strategic Planning & Insights",42,2.0,,89800.0,112200.0,101000.0,USD,FULL_TIME,Remote,Mid Level,2026-06-18,2026-08-17,20260618
+137,https://himalayas.app/companies/multicare-health-system/jobs/hr-employee-data-analyst,HR Employee Data Analyst,122,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-03,2026-09-01,20260703
+138,https://himalayas.app/companies/danaher/jobs/business-insights-analyst,Business Insights Analyst,69,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-24,2026-08-23,20260624
+139,https://himalayas.app/companies/formfactor-inc/jobs/senior-data-analyst-financial-analytics-2721046250,Senior Data Analyst – Financial Analytics,123,2.0,,132400.0,173775.0,153087.5,USD,FULL_TIME,Remote,Lead/Principal,2026-06-20,2026-08-19,20260620
+140,https://himalayas.app/companies/lexisnexis/jobs/decision-support-analyst,Decision Support Analyst,72,4.0,,,,,,FULL_TIME,Remote,Mid Level,2026-05-08,2026-07-07,20260508
+141,https://himalayas.app/companies/general-dynamics-information-technology/jobs/program-data-analyst-advisor-3492405277,Program/Data Analyst Advisor,124,,,124093.0,143750.0,133921.5,USD,FULL_TIME,Remote,Lead/Principal,2026-06-28,2026-08-27,20260628
+142,https://himalayas.app/companies/scalepex/jobs/healthcare-data-analyst-8416887259,Healthcare Data Analyst,125,9.0,,,,,,FULL_TIME,Remote,Entry Level,2026-07-01,2026-08-30,20260701
+143,https://himalayas.app/companies/mission-underwriting-managers/jobs/senior-data-analyst,Senior Data Analyst,126,2.0,,,,,,FULL_TIME,Remote,Lead/Principal,2026-06-13,2026-08-12,20260613
+144,https://himalayas.app/companies/national-university/jobs/senior-digital-analyst-2881989358,Senior Digital Analyst,127,2.0,,62579.0,84480.0,73529.5,USD,FULL_TIME,Remote,Senior Level,2026-06-26,2026-08-25,20260626
+145,https://himalayas.app/companies/virtual-teammate/jobs/hubspot-analyst,HubSpot Analyst,128,2.0,,12480.0,16640.0,14560.0,USD,FULL_TIME,Remote,Mid Level,2026-04-30,2026-07-29,20260430
+146,https://himalayas.app/companies/launch-potato/jobs/lead-data-analyst-marketing,"Lead Data Analyst, Marketing",129,2.0,,120000.0,150000.0,135000.0,USD,FULL_TIME,Remote,Lead/Principal,2026-07-02,2026-08-31,20260702
+147,https://himalayas.app/companies/satispay/jobs/fraud-data-analyst,Fraud Data Analyst,130,100.0,,,,,,FULL_TIME,Hybrid,Not Specified,2026-05-13,2026-07-12,20260513
+148,https://himalayas.app/companies/ceox-services-ltd/jobs/data-analyst,Data Analyst,131,4.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-24,2026-08-23,20260624
+149,https://himalayas.app/companies/newsquest-media-group/jobs/insights-analyst,Insights Analyst,132,4.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-03,2026-09-01,20260703
+150,https://himalayas.app/companies/evotix/jobs/data-analyst-9747705737,Data Analyst,133,97.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-25,2026-08-24,20260625
+151,https://himalayas.app/companies/moniepoint/jobs/senior-data-analyst-6305220879,Senior Data Analyst,134,80.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-05,2026-09-03,20260705
+152,https://himalayas.app/companies/revecore/jobs/data-operations-analyst,Data Operations Analyst,135,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-06,2026-08-05,20260606
+153,https://himalayas.app/companies/virtual-teammate/jobs/data-analyst,Data Analyst,128,2.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-21,2026-08-20,20260621
+154,https://himalayas.app/companies/precision-medicine-group/jobs/senior-data-analyst,Senior Data Analyst,136,1.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+155,https://himalayas.app/companies/capitex/jobs/uk-financial-crime-data-analyst-sql-large-data-sets,UK - Financial Crime Data Analyst (SQL & Large data sets),96,4.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-19,2026-08-18,20260619
+156,https://himalayas.app/companies/source-a-rep-pty-ltd/jobs/data-executive-sdr-operations-revenue-intelligence,Data Executive – SDR Operations & Revenue Intelligence,137,2.0,,,,,,CONTRACTOR,Remote,Mid Level,2026-07-01,2026-08-30,20260701
+157,https://himalayas.app/companies/gramian-consulting-group/jobs/ai-evaluation-engineer-data-analysis-multi-agent-systems-2399976813,AI Evaluation Engineer (Data Analysis & Multi-Agent Systems),138,101.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-15,2026-07-14,20260515
+158,https://himalayas.app/companies/comcap/jobs/data-analyst,Data Analyst,28,70.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-24,2026-08-23,20260624
+159,https://himalayas.app/companies/damia-group/jobs/junior-data-analyst,Junior Data Analyst,139,89.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-13,2026-07-12,20260513
+160,https://himalayas.app/companies/goodlord/jobs/data-analyst-mid-level,Data Analyst (Mid Level),140,4.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-08,2026-07-07,20260508
+161,https://himalayas.app/companies/growthpair/jobs/growth-analyst-5326282567,Growth Analyst,141,8.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-22,2026-08-21,20260622
+162,https://himalayas.app/companies/radiance-technologies-inc/jobs/data-analyst,Data Analyst,105,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-17,2026-08-16,20260617
+163,https://himalayas.app/companies/scalepex/jobs/healthcare-data-analyst,Healthcare Data Analyst,125,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-19,2026-07-18,20260519
+164,https://himalayas.app/companies/swish-analytics/jobs/sports-data-analyst,Sports Data Analyst,142,2.0,,,,,,FULL_TIME,Remote,Entry Level,2026-06-19,2026-08-18,20260619
+165,https://himalayas.app/companies/truelogic-io/jobs/senior-data-analyst-travel-entertainment,Senior Data Analyst – Travel Entertainment,143,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-17,2026-07-16,20260517
+166,https://himalayas.app/companies/nordic-global/jobs/senior-data-analyst-1344462657,Senior Data Analyst,144,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-24,2026-07-23,20260524
+167,https://himalayas.app/companies/the-kraft-heinz-company/jobs/senior-analyst-ecommerce-business-analytics,"Senior Analyst, eCommerce Business Analytics",42,2.0,,89800.0,112200.0,101000.0,USD,FULL_TIME,Remote,Mid Level,2026-05-27,2026-07-26,20260527
+168,https://himalayas.app/companies/royal-caribbean-group/jobs/analyst-senior-data-remote-fl-us-33810,"Analyst, Senior Data (Remote, FL, US, 33810)",145,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+169,https://himalayas.app/companies/spartan-investment-group/jobs/market-competitive-intelligence-analyst,Market & Competitive Intelligence Analyst,146,73.0,,13653.65,19505.22,16579.435,PHP,FULL_TIME,Remote,Entry Level,2026-07-01,2026-08-30,20260701
+170,https://himalayas.app/companies/aliancers/jobs/analista-de-datos-operaciones,Analista de Datos – Operaciones,147,2.0,,,,,,CONTRACTOR,Remote,Mid Level,2026-05-28,2026-07-27,20260528
+171,https://himalayas.app/companies/elder-research/jobs/data-analyst,Data Analyst,148,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-08,2026-08-07,20260608
+172,https://himalayas.app/companies/highmark-health/jobs/senior-data-solutions-analyst-medicaid-growth-reporting-3154718738,Senior Data Solutions Analyst - Medicaid Growth Reporting,57,2.0,,86400.0,138600.0,112500.0,USD,FULL_TIME,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+173,https://himalayas.app/companies/techbiz-global/jobs/marketing-analyst,Marketing Analyst,149,80.0,,,,,,FULL_TIME,Hybrid,Mid Level,2026-06-12,2026-08-11,20260612
+174,https://himalayas.app/companies/luminare-health/jobs/senior-data-analyst-ii-lhb,Senior Data Analyst II - LHB,150,2.0,,67600.0,127000.0,97300.0,USD,FULL_TIME,Remote,Senior Level,2026-07-05,2026-09-03,20260705
+175,https://himalayas.app/companies/expert-va/jobs/data-accounting-analyst,Data & Accounting Analyst,151,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-19,2026-08-18,20260619
+176,https://himalayas.app/companies/walmart-com/jobs/usa-data-analyst-ii,(USA) Data Analyst II,62,2.0,,84000.0,156000.0,120000.0,USD,FULL_TIME,Remote,Mid Level,2026-05-26,2026-07-25,20260526
+177,https://himalayas.app/companies/yipitdata/jobs/senior-data-analyst,Senior Data Analyst,8,2.0,,165000.0,205000.0,185000.0,USD,FULL_TIME,Remote,Senior Level,2026-06-07,2026-08-06,20260607
+178,https://himalayas.app/companies/venduetech/jobs/data-analyst-part-time-worldwide,Data Analyst - Part Time - Worldwide,152,80.0,,,,,,PART_TIME,Remote,Not Specified,2026-06-24,2026-08-23,20260624
+179,https://himalayas.app/companies/remote-raven/jobs/data-systems-analyst,Data & Systems Analyst,153,73.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-02,2026-08-31,20260702
+180,https://himalayas.app/companies/machinify/jobs/dmg-data-mining-analyst-ii,DMG Data Mining Analyst II,154,2.0,,90000.0,140000.0,115000.0,USD,FULL_TIME,Remote,Senior Level,2026-05-23,2026-07-22,20260523
+181,https://himalayas.app/companies/dacodes/jobs/marketing-business-analyst-1781603735,Marketing & Business Analyst,155,55.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-08,2026-07-07,20260508
+182,https://himalayas.app/companies/coopercompanies/jobs/senior-analyst-business-intelligence,"Senior Analyst, Business Intelligence",156,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-27,2026-08-26,20260627
+183,https://himalayas.app/companies/aliancers/jobs/data-analyts,Data Analyts,147,2.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-04-28,2026-07-27,20260428
+184,https://himalayas.app/companies/comfrt/jobs/marketing-and-customer-data-analyst,Marketing and Customer Data Analyst,4,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-29,2026-08-28,20260629
+185,https://himalayas.app/companies/free2move/jobs/data-analyst-junior-remote-or-onsite,Data Analyst Junior (Remote or Onsite),157,12.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-09,2026-07-08,20260509
+186,https://himalayas.app/companies/precision-aq/jobs/senior-data-analyst,Senior Data Analyst,158,1.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+187,https://himalayas.app/companies/solanalabs/jobs/senior-data-analyst,Senior Data Analyst,159,99.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-16,2026-07-15,20260516
+188,https://himalayas.app/companies/necsws/jobs/data-analyst,Data Analyst,160,4.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-01,2026-08-30,20260701
+189,https://himalayas.app/companies/sphera/jobs/associate-data-analyst-sql-excel,Associate Data Analyst (SQL & Excel),161,3.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-10,2026-08-09,20260610
+190,https://himalayas.app/companies/computercare/jobs/data-analyst-ii,Data Analyst II,162,2.0,,80000.0,115000.0,97500.0,USD,FULL_TIME,Hybrid,Mid Level,2026-06-26,2026-08-25,20260626
+191,https://himalayas.app/companies/everesttechnologies/jobs/data-analyst,Data Analyst,163,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-27,2026-08-26,20260627
+192,https://himalayas.app/companies/arch-capital-group-ltd/jobs/2026-7974-data-analyst-senior-night-shift,2026-7974 Data Analyst - Senior (Night Shift),164,73.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-03,2026-09-01,20260703
+193,https://himalayas.app/companies/pavago/jobs/financial-data-analyst-6305551181,Financial & Data Analyst,115,14.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-13,2026-07-12,20260513
+194,https://himalayas.app/companies/smithrx/jobs/marketing-data-analyst,Marketing Data Analyst,165,80.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-01,2026-08-30,20260701
+195,https://himalayas.app/companies/dlh-corporation/jobs/research-analyst-sas-and-r-job-1368,Research Analyst (SAS and R) (Job 1368),166,2.0,,50000.0,70000.0,60000.0,USD,FULL_TIME,Remote,Mid Level,2026-07-04,2026-09-02,20260704
+196,https://himalayas.app/companies/palta/jobs/product-analyst,Product analyst,167,2.0,,,,,,FULL_TIME,Hybrid,Not Specified,2026-07-03,2026-09-01,20260703
+197,https://himalayas.app/companies/deploy/jobs/marketing-analytics-analyst,Marketing Analytics Analyst,168,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-04-13,2026-07-11,20260413
+198,https://himalayas.app/companies/work-mercor/jobs/business-intelligence-analyst,Business Intelligence Analyst,45,5.0,,140000.0,200000.0,170000.0,USD,TEMPORARY,Remote,Not Specified,2026-05-11,2026-07-10,20260511
+199,https://himalayas.app/companies/tabby/jobs/senior-data-analyst-cx,Senior Data Analyst (CX),169,79.0,,,,,,FULL_TIME,Remote,Mid Level,2026-05-22,2026-07-21,20260522
+200,https://himalayas.app/companies/intertek/jobs/data-bi-analyst,Data & BI Analyst,170,92.0,,,,,,FULL_TIME,Hybrid,Entry Level,2026-06-15,2026-08-14,20260615
+201,https://himalayas.app/companies/aldia/jobs/data-analyst,Data Analyst,171,77.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-02,2026-08-31,20260702
+202,https://himalayas.app/companies/danaher/jobs/sales-analyst-sea,"Sales Analyst, SEA",69,108.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-27,2026-08-26,20260627
+203,https://himalayas.app/companies/remote/jobs/finance-systems-data-analyst,Finance Systems Data Analyst,172,80.0,,32700.0,73650.0,53175.0,USD,FULL_TIME,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+204,https://himalayas.app/companies/the-preferred-supplier/jobs/data-analist-ms-sql,Data Analist MS-SQL,173,13.0,,61641.02,89037.03,75339.025,EUR,FULL_TIME,Remote,Mid Level,2026-06-27,2026-08-26,20260627
+205,https://himalayas.app/companies/owens-minor/jobs/business-intelligence-analyst,Business Intelligence Analyst,174,2.0,,95000.0,105000.0,100000.0,USD,FULL_TIME,Remote,Mid Level,2026-05-29,2026-07-28,20260529
+206,https://himalayas.app/companies/marrina-decisions/jobs/remote-marketing-data-analyst,REMOTE: Marketing Data Analyst,175,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-05,2026-09-03,20260705
+207,https://himalayas.app/companies/wati/jobs/senior-product-analyst,(Senior) Product Analyst,176,1.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-28,2026-08-27,20260628
+208,https://himalayas.app/companies/paired-so/jobs/senior-data-analyst-marketing-focus-at-beautytech-dtc-brand-remote-eu-based-3063878083,"Senior Data Analyst (Marketing Focus) at BeautyTech DTC Brand (Remote, EU-based)",177,89.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-23,2026-07-22,20260523
+209,https://himalayas.app/companies/clover-health/jobs/data-analyst-value-based-care-analytics,"Data Analyst, Value-Based Care Analytics",178,2.0,,96000.0,125000.0,110500.0,USD,FULL_TIME,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+210,https://himalayas.app/companies/engine/jobs/staff-data-analyst-engine-x,"Staff Data Analyst, Engine X",179,2.0,,137275.0,190000.0,163637.5,USD,FULL_TIME,Hybrid,Lead/Principal,2026-06-29,2026-08-28,20260629
+211,https://himalayas.app/companies/remote-va/jobs/data-analyst,Data Analyst,180,73.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-08,2026-08-07,20260608
+212,https://himalayas.app/companies/ededge-learning/jobs/data-analyst-internship-program,Data Analyst Internship Program,181,4.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-07-07,2026-09-05,20260707
+213,https://himalayas.app/companies/printful/jobs/senior-data-analyst,Senior Data Analyst,182,23.0,,,,,,FULL_TIME,Remote,Senior Level,2026-04-19,2026-07-18,20260419
+214,https://himalayas.app/companies/the-kraft-heinz-company/jobs/customer-analyst-sales,Customer Analyst Sales,42,2.0,,77800.0,97300.0,87550.0,USD,FULL_TIME,Remote,Not Specified,2026-06-05,2026-08-04,20260605
+215,https://himalayas.app/companies/axuall/jobs/senior-data-analyst,Senior Data Analyst,183,2.0,,115000.0,130000.0,122500.0,USD,FULL_TIME,Remote,Senior Level,2026-06-07,2026-08-06,20260607
+216,https://himalayas.app/companies/averna/jobs/analyste-de-donnees-ia,Analyste de données IA,112,5.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-31,2026-07-30,20260531
+217,https://himalayas.app/companies/engine/jobs/sr-product-analyst-omni,"Sr. Product Analyst, Omni",179,2.0,,114665.0,158700.0,136682.5,USD,FULL_TIME,Hybrid,Senior Level,2026-06-29,2026-08-28,20260629
+218,https://himalayas.app/companies/mama-money/jobs/senior-data-analyst,Senior Data Analyst,184,19.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-21,2026-07-20,20260521
+219,https://himalayas.app/companies/claritev-com/jobs/temporary-provider-data-analyst,Temporary Provider Data Analyst,110,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-05,2026-08-04,20260605
+220,https://himalayas.app/companies/r2/jobs/data-analyst-intern-latam-only,Data Analyst Intern (LatAm Only),185,7.0,,,,,,INTERN,Remote,Entry Level,2026-06-23,2026-08-22,20260623
+221,https://himalayas.app/companies/sphera/jobs/senior-data-analyst,Senior Data Analyst,161,3.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-02,2026-08-31,20260702
+222,https://himalayas.app/companies/lite-e-commerce/jobs/business-analyst-operations,Business Analyst (Operations),186,3.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-01,2026-08-30,20260701
+223,https://himalayas.app/companies/stride-inc/jobs/senior-data-analyst-2468901470,Senior Data Analyst,187,2.0,,66379.0,110000.0,88189.5,USD,FULL_TIME,Remote,Senior Level,2026-05-28,2026-07-27,20260528
+224,https://himalayas.app/companies/assistrx/jobs/senior-data-analyst-data-transfer-agreement-gap-analysis-data-sql-skills,"Senior Data Analyst, Data Transfer Agreement, Gap Analysis, Data SQL Skills",188,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-03,2026-08-02,20260603
+225,https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/data-analyst,Data Analyst,87,1.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-28,2026-08-27,20260628
+226,https://himalayas.app/companies/24-hours-group/jobs/reports-analyst-philippines,Reports Analyst (Philippines),189,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-04-19,2026-07-18,20260419
+227,https://himalayas.app/companies/walker-dunlop/jobs/senior-data-analyst-5669426465,Senior Data Analyst,190,13.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-30,2026-07-29,20260530
+228,https://himalayas.app/companies/hrtx-inc/jobs/data-analyst-marketing,Data Analyst - Marketing,121,73.0,,,,,,FULL_TIME,Remote,Mid Level,2026-04-11,2026-07-10,20260411
+229,https://himalayas.app/companies/trader-interactive/jobs/data-systems-analyst-ii,Data / Systems Analyst II,191,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-01,2026-08-30,20260701
+230,https://himalayas.app/companies/aptive/jobs/data-analyst-sr-ai-research-systems-support,"Data Analyst, Sr – AI Research Systems Support",192,2.0,,,,,,FULL_TIME,Remote,Lead/Principal,2026-06-04,2026-08-03,20260604
+231,https://himalayas.app/companies/binance/jobs/marketing-business-analyst,Marketing Business Analyst,193,82.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-02,2026-08-01,20260602
+232,https://himalayas.app/companies/fusemachines/jobs/data-analyst,Data Analyst,30,106.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-10,2026-08-09,20260610
+233,https://himalayas.app/companies/venbrook/jobs/technical-business-analyst,Technical Business Analyst,194,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-28,2026-08-27,20260628
+234,https://himalayas.app/companies/versant-health/jobs/data-reporting-analyst,Data Reporting Analyst,195,80.0,,90000.0,100000.0,95000.0,USD,FULL_TIME,Remote,Entry Level,2026-06-14,2026-08-13,20260614
+235,https://himalayas.app/companies/cozey/jobs/analyste-e-commerce,Analyste E-commerce,196,5.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-01,2026-08-30,20260701
+236,https://himalayas.app/companies/genesis/jobs/middle-data-analyst-findies,Middle Data Analyst (Findies),197,78.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-21,2026-08-20,20260621
+237,https://himalayas.app/companies/sentara-health/jobs/senior-healthcare-data-analyst-remote,Senior Healthcare Data Analyst - Remote,198,2.0,,80204.8,133681.6,106943.2,USD,FULL_TIME,Remote,Mid Level,2026-05-22,2026-07-21,20260522
+238,https://himalayas.app/companies/linktree/jobs/senior-data-analyst,Senior Data Analyst,199,19.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-12,2026-07-11,20260512
+239,https://himalayas.app/companies/steelseries/jobs/digital-marketing-analyst,Digital Marketing Analyst,200,3.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-28,2026-08-27,20260628
+240,https://himalayas.app/companies/bold/jobs/commissions-commercial-analyst,Commissions Commercial Analyst,201,7.0,,,,,,FULL_TIME,Remote,Not Specified,2026-04-19,2026-07-18,20260419
+241,https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-odia-in-9105243747,Online Data Analyst - Odia (IN),202,,,,,,,PART_TIME,Remote,Not Specified,2026-06-10,2026-07-10,20260610
+242,https://himalayas.app/companies/comfrt/jobs/operations-and-logistics-data-analyst,Operations and Logistics Data Analyst,4,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-29,2026-08-28,20260629
+243,https://himalayas.app/companies/lifeway-christian-resources/jobs/service-cloud-data-analyst-remote,Service Cloud Data Analyst | Remote,203,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-27,2026-08-26,20260627
+244,https://himalayas.app/companies/molina-healthcare/jobs/analyst-finance-analytics-advanced-sql-large-scale-data-remote,"Analyst, Finance & Analytics (Advanced SQL / Large-Scale Data) - REMOTE",204,2.0,,,,,,FULL_TIME,Remote,Entry Level,2026-07-01,2026-08-30,20260701
+245,https://himalayas.app/companies/ethos/jobs/principal-analyst,Principal Analyst,205,2.0,,127000.0,224000.0,175500.0,USD,FULL_TIME,Remote,Senior Level,2026-06-07,2026-08-06,20260607
+246,https://himalayas.app/companies/truelogic-io/jobs/senior-data-analyst-travel-entertainment-brazil,Senior Data Analyst – Travel Entertainment (Brazil),143,8.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-16,2026-07-15,20260516
+247,https://himalayas.app/companies/dadosfera/jobs/data-analyst-talent-pool-banco-de-talentos-analista-de-dados,Data Analyst Talent Pool | Banco de Talentos - Analista de Dados,206,8.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-27,2026-08-26,20260627
+248,https://himalayas.app/companies/capgemini-technology-services/jobs/business-solutions-analyst-data-reporting,Business Solutions Analyst (Data & Reporting),43,9.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-08,2026-08-07,20260608
+249,https://himalayas.app/companies/ryz-labs/jobs/data-product-analyst-9384092849,Data Product Analyst,51,7.0,,,,,,CONTRACTOR,Remote,Senior Level,2026-05-12,2026-07-11,20260512
+250,https://himalayas.app/companies/genesis/jobs/data-analyst-marketing-holywater-493671079,Data Analyst (Marketing) | HOLYWATER,197,78.0,,,,,,FULL_TIME,Remote,Entry Level,2026-04-22,2026-07-21,20260422
+251,https://himalayas.app/companies/credit-acceptance/jobs/associate-mid-level-senior-analytics-reporting-analyst,Associate/Mid Level/Senior Analytics Reporting Analyst,207,2.0,,63000.0,129000.0,96000.0,USD,FULL_TIME,Remote,Entry Level,2026-06-08,2026-08-07,20260608
+252,https://himalayas.app/companies/travel-leisure-co/jobs/club-compliance-data-analyst-ii,Club Compliance Data Analyst II,208,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-01,2026-08-30,20260701
+253,https://himalayas.app/companies/algomarketing/jobs/marketing-data-operations-analyst-us-east-coast,"Marketing Data Operations Analyst- US, East Coast",209,2.0,,,,,,CONTRACTOR,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+254,https://himalayas.app/companies/centene-corporation/jobs/data-analyst-iv-healthcare-analytics-medical-economics-5486304748,"Data Analyst IV Healthcare Analytics, Medical Economics",210,95.0,,87700.0,157800.0,122750.0,USD,FULL_TIME,Hybrid,Senior Level,2026-06-03,2026-08-02,20260603
+255,https://himalayas.app/companies/walmart-com/jobs/senior-data-analyst-market-research-survey-analytics,"Senior, Data Analyst – Market Research & Survey Analytics",62,2.0,,96000.0,186000.0,141000.0,USD,FULL_TIME,Remote,Mid Level,2026-06-02,2026-08-01,20260602
+256,https://himalayas.app/companies/talent-shore/jobs/6-month-ftc-bi-analyst,6 Month FTC - BI Analyst,109,19.0,,2463.87,3695.81,3079.84,ZAR,FULL_TIME,Remote,Mid Level,2026-05-21,2026-07-20,20260521
+257,https://himalayas.app/companies/seneca-holdings/jobs/journeyman-data-insights-specialist,Journeyman Data & Insights Specialist,211,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-11,2026-07-10,20260511
+258,https://himalayas.app/companies/data-ideology/jobs/data-analyst-2176680107,Data Analyst,212,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-04-25,2026-07-24,20260425
+259,https://himalayas.app/companies/walter-bacon-llc/jobs/data-analyst-life-sciences-specialist-direct-hire-125-210k-telecommute,Data Analyst (Life Sciences Specialist) (Direct hire $125-210k) telecommute,213,2.0,,125000.0,210000.0,167500.0,USD,FULL_TIME,Remote,Mid Level,2026-06-29,2026-08-28,20260629
+260,https://himalayas.app/companies/felix-com/jobs/support-operations-analyst,Support Operations Analyst,74,14.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-15,2026-07-14,20260515
+261,https://himalayas.app/companies/gramian-consulting-group/jobs/ai-evaluation-engineer-data-analysis-multi-agent-systems,AI Evaluation Engineer (Data Analysis & Multi-Agent Systems),138,109.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-15,2026-07-14,20260515
+262,https://himalayas.app/companies/polk/jobs/data-analyst,Data Analyst,214,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-22,2026-07-21,20260522
+263,https://himalayas.app/companies/alter-solutions/jobs/data-analyst,Data Analyst,41,77.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-31,2026-07-30,20260531
+264,https://himalayas.app/companies/central-health/jobs/data-analyst,Data Analyst,215,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-27,2026-08-26,20260627
+265,https://himalayas.app/companies/statista/jobs/consultant-healthcare-data-analytics-m-f-d,Consultant - Healthcare Data Analytics (m/f/d),216,6.0,,,,,,FULL_TIME,Hybrid,Not Specified,2026-05-19,2026-07-18,20260519
+266,https://himalayas.app/companies/enablecomp/jobs/senior-data-analyst,Senior Data Analyst,217,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-19,2026-07-18,20260519
+267,https://himalayas.app/companies/vesta-software-group/jobs/m-a-research-data-analyst,M&A Research & Data Analyst,218,4.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-12,2026-08-11,20260612
+268,https://himalayas.app/companies/remote-world/jobs/product-analyst,Product Analyst,14,2.0,,23653.19,23653.19,23653.19,ZAR,FULL_TIME,Remote,Mid Level,2026-05-28,2026-07-27,20260528
+269,https://himalayas.app/companies/inpost/jobs/data-analyst-k-m-n,Data Analyst (k/m/n),219,3.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-05,2026-09-03,20260705
+270,https://himalayas.app/companies/moniepoint/jobs/senior-data-analyst,Senior Data Analyst,134,77.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-05,2026-09-03,20260705
+271,https://himalayas.app/companies/robusta/jobs/data-analyst-8-months-remote-octopus-by-rtg,Data Analyst - 8 Months - Remote - Octopus by RTG,220,16.0,,,,,,CONTRACTOR,Remote,Senior Level,2026-05-04,2026-08-02,20260504
+272,https://himalayas.app/companies/my-amazon-guy/jobs/it-data-analyst,IT Data Analyst,221,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-28,2026-08-27,20260628
+273,https://himalayas.app/companies/rightnow-media/jobs/data-analyst-remote,Data Analyst- Remote,222,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-16,2026-07-15,20260516
+274,https://himalayas.app/companies/tripleten/jobs/finance-operations-analyst-6768346360,Finance & Operations Analyst,223,93.0,,,,,,FULL_TIME,Remote,Entry Level,2026-07-05,2026-09-03,20260705
+275,https://himalayas.app/companies/sysco/jobs/national-sales-analyst,National Sales Analyst,224,5.0,,44997.54,67426.0,56211.77,CAD,FULL_TIME,Remote,Mid Level,2026-04-20,2026-07-18,20260420
+276,https://himalayas.app/companies/aledade/jobs/bi-lead-analyst,BI Lead Analyst,225,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-04-22,2026-07-21,20260422
+277,https://himalayas.app/companies/exl/jobs/senior-manager-data-analyst-for-medical-health-claims,Senior Manager - Data Analyst for Medical Health Claims,92,2.0,,120000.0,125000.0,122500.0,USD,FULL_TIME,Remote,Not Specified,2026-05-28,2026-07-27,20260528
+278,https://himalayas.app/companies/pavago/jobs/financial-data-analyst-3107046251,Financial & Data Analyst,115,106.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-26,2026-08-25,20260626
+279,https://himalayas.app/companies/proarch/jobs/data-analyst-powerbi-engineer,Data Analyst/PowerBI Engineer,226,1.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+280,https://himalayas.app/companies/capgemini-technology-services/jobs/fbs-assoc-business-solution-analyst,FBS Assoc Business Solution Analyst,43,9.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-22,2026-08-21,20260622
+281,https://himalayas.app/companies/spring-health/jobs/senior-data-analyst-i-marketing-alma,"Senior Data Analyst I, Marketing (Alma)",227,2.0,,125000.0,145000.0,135000.0,USD,FULL_TIME,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+282,https://himalayas.app/companies/sensedia/jobs/analista-de-dados-pleno-12860,Analista de Dados | Pleno (12860),228,8.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-06,2026-09-04,20260706
+283,https://himalayas.app/companies/mtm-llc/jobs/salesforce-data-analyst,Salesforce Data Analyst,229,2.0,,90000.0,110000.0,100000.0,USD,FULL_TIME,Remote,Not Specified,2026-04-19,2026-07-18,20260419
+284,https://himalayas.app/companies/lifelancer/jobs/data-analyst-python-sql-french-proficient-speaker-madrid-based,Data Analyst (Python & SQL) - French Proficient Speaker / Madrid Based,230,2.0,,,,,,FULL_TIME,Remote,Entry Level,2026-04-30,2026-07-29,20260430
+285,https://himalayas.app/companies/workhuman/jobs/principal-data-analyst-pricing,Principal Data Analyst - Pricing,231,2.0,,150000.0,175000.0,162500.0,USD,FULL_TIME,Hybrid,Not Specified,2026-06-29,2026-08-28,20260629
+286,https://himalayas.app/companies/zipdev/jobs/marketing-analyst,Marketing Analyst,232,9.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-03,2026-09-01,20260703
+287,https://himalayas.app/companies/chess-com/jobs/data-analyst-growth-monetization-chesskid,"Data Analyst, Growth & Monetization - ChessKid",233,5.0,,,,,,FULL_TIME,Remote,Mid Level,2026-05-27,2026-07-26,20260527
+288,https://himalayas.app/companies/pearson/jobs/associate-data-analytics-business-intelligence,"Associate, Data Analytics & Business Intelligence",234,103.0,,,,,,INTERN,Remote,Not Specified,2026-05-13,2026-07-12,20260513
+289,https://himalayas.app/companies/indigo-beam-consulting/jobs/sap-data-analyst,SAP Data Analyst,235,2.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-05-15,2026-07-14,20260515
+290,https://himalayas.app/companies/chainlink-labs/jobs/data-risk-operations-analyst,Data Risk Operations Analyst,6,4.0,,90000.0,226000.0,158000.0,USD,FULL_TIME,Remote,Not Specified,2026-06-06,2026-08-05,20260606
+291,https://himalayas.app/companies/prezi/jobs/senior-data-analyst,Senior Data Analyst,236,94.0,,,,,,FULL_TIME,Remote,Senior Level,2026-04-22,2026-07-21,20260422
+292,https://himalayas.app/companies/remote-va/jobs/business-analyst,Business Analyst,180,73.0,,,,,,PART_TIME,Remote,Mid Level,2026-05-18,2026-07-17,20260518
+293,https://himalayas.app/companies/bm-digital/jobs/senior-data-analyst-3269298709,Senior Data Analyst,237,73.0,,24000.0,48000.0,36000.0,USD,FULL_TIME,Remote,Mid Level,2026-05-24,2026-07-23,20260524
+294,https://himalayas.app/companies/civic-nation/jobs/experimentation-data-analyst-party-at-the-polls,"Experimentation Data Analyst, Party At The Polls",238,2.0,,65000.0,72000.0,68500.0,USD,TEMPORARY,Remote,Entry Level,2026-06-22,2026-08-21,20260622
+295,https://himalayas.app/companies/remote-va/jobs/technical-analyst,Technical Analyst,180,73.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-01,2026-08-30,20260701
+296,https://himalayas.app/companies/dedale-intelligence/jobs/data-operations-associate,Data Operations Associate,239,73.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-22,2026-07-21,20260522
+297,https://himalayas.app/companies/nordson-corporation/jobs/data-analyst-i-ams,Data Analyst I - AMS,240,1.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-24,2026-08-23,20260624
+298,https://himalayas.app/companies/global-healthcare-exchange-ghx/jobs/technical-data-analyst-ii,Technical Data Analyst II,241,2.0,,65000.0,81000.0,73000.0,USD,FULL_TIME,Remote,Mid Level,2026-06-02,2026-08-01,20260602
+299,https://himalayas.app/companies/tlvtech/jobs/data-analyst-2486439865,Data Analyst,242,84.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-28,2026-07-27,20260528
+300,https://himalayas.app/companies/gamesight/jobs/data-analyst,Data Analyst,243,4.0,,60052.05,73396.94,66724.495,GBP,CONTRACTOR,Remote,Senior Level,2026-05-25,2026-07-24,20260525
+301,https://himalayas.app/companies/betmgm/jobs/senior-gaming-analyst,Senior Gaming Analyst,89,2.0,,92000.0,120750.0,106375.0,USD,FULL_TIME,Remote,Senior Level,2026-07-01,2026-08-30,20260701
+302,https://himalayas.app/companies/exclusive-networks-usa/jobs/sr-analyst-data-ai-and-insights,"Sr. Analyst, Data, AI and Insights",244,2.0,,130000.0,150000.0,140000.0,USD,FULL_TIME,Remote,Not Specified,2026-06-28,2026-08-27,20260628
+303,https://himalayas.app/companies/hopskipdrive/jobs/data-analyst-revenue-ops,Data Analyst - Revenue Ops,245,2.0,,95000.0,110000.0,102500.0,USD,FULL_TIME,Remote,Senior Level,2026-04-24,2026-07-23,20260424
+304,https://himalayas.app/companies/everbridge/jobs/data-analyst-ai-amp-data-platform,Data Analyst (AI &amp; Data Platform),246,1.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-20,2026-07-19,20260520
+305,https://himalayas.app/companies/hire-hangar/jobs/junior-data-analyst-4174160018,Junior Data Analyst,24,7.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-18,2026-08-17,20260618
+306,https://himalayas.app/companies/institute-for-humane-studies/jobs/academic-research-analyst,Academic Research Analyst,247,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-04-17,2026-07-16,20260417
+307,https://himalayas.app/companies/ncd/jobs/senior-data-analyst,Senior Data Analyst,111,2.0,,,,,,FULL_TIME,Hybrid,Mid Level,2026-07-01,2026-08-30,20260701
+308,https://himalayas.app/companies/ci-t/jobs/job-28081-people-analytcis-specialist,[Job 28081] People Analytcis Specialist,118,8.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-09,2026-07-08,20260509
+309,https://himalayas.app/companies/sqli/jobs/data-analyst-f-h,Data Analyst (F/H),248,110.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-21,2026-08-20,20260621
+310,https://himalayas.app/companies/connexus-credit-union/jobs/senior-data-analyst,Senior Data Analyst,249,2.0,,,,,,FULL_TIME,Remote,Lead/Principal,2026-07-01,2026-08-30,20260701
+311,https://himalayas.app/companies/tabby/jobs/senior-data-analyst-cx-3206256126,Senior Data Analyst (CX),169,90.0,,,,,,FULL_TIME,Remote,Mid Level,2026-05-22,2026-07-21,20260522
+312,https://himalayas.app/companies/digital-harbor-foundation/jobs/data-analyst,Data Analyst,250,2.0,,70000.0,70000.0,70000.0,USD,FULL_TIME,Remote,Not Specified,2026-06-18,2026-08-17,20260618
+313,https://himalayas.app/companies/deel/jobs/data-analyst,Data Analyst,251,7.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-09,2026-07-08,20260509
+314,https://himalayas.app/companies/work-mercor/jobs/insights-analyst-4640062583,Insights Analyst,45,89.0,,160000.0,320000.0,240000.0,USD,TEMPORARY,Remote,Not Specified,2026-05-17,2026-07-16,20260517
+315,https://himalayas.app/companies/helprise/jobs/sql-data-analyst,SQL Data Analyst,252,3.0,,,,,,FULL_TIME,Hybrid,Not Specified,2026-04-10,2026-07-09,20260410
+316,https://himalayas.app/companies/bounteous/jobs/business-intelligence-analyst,Business Intelligence Analyst,253,9.0,,,,,,CONTRACTOR,Remote,Senior Level,2026-05-30,2026-07-29,20260530
+317,https://himalayas.app/companies/ci-t/jobs/job-29149-senior-data-analyst-brazil-mulheres,"[Job-29149] Senior Data Analyst, Brazil (Mulheres)",118,8.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-14,2026-07-13,20260514
+318,https://himalayas.app/companies/cube-asia/jobs/data-analyst,Data Analyst,254,85.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-20,2026-08-19,20260620
+319,https://himalayas.app/companies/micro1/jobs/data-analyst-6829615496,Data Analyst,255,,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-24,2026-07-24,20260624
+320,https://himalayas.app/companies/online-river/jobs/data-analyst,Data Analyst,256,2.0,,,,,,PART_TIME,Remote,Mid Level,2026-06-21,2026-08-20,20260621
+321,https://himalayas.app/companies/sagility/jobs/operations-business-mis-analyst-lead,Operations Business MIS Analyst Lead,257,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-01,2026-08-30,20260701
+322,https://himalayas.app/companies/mercedes-benz-io-gmbh/jobs/digital-analyst,Digital Analyst,258,113.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-21,2026-08-20,20260621
+323,https://himalayas.app/companies/capitex/jobs/data-analyst-fincrime-focus-contract-remote,Data Analyst (FinCrime Focus - Contract) Remote,96,4.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-05-19,2026-07-18,20260519
+324,https://himalayas.app/companies/tabby/jobs/senior-data-analyst,Senior Data Analyst,169,,,,,,,FULL_TIME,Remote,Mid Level,2026-05-13,2026-07-12,20260513
+325,https://himalayas.app/companies/ryder-system-inc/jobs/data-analyst-iii,Data Analyst III,259,2.0,,120000.0,120000.0,120000.0,USD,FULL_TIME,Remote,Mid Level,2026-07-05,2026-09-03,20260705
+326,https://himalayas.app/companies/lennor-group/jobs/senior-data-analyst-hybrid,Senior Data Analyst - Hybrid,260,73.0,,,,,,FULL_TIME,Hybrid,Not Specified,2026-05-29,2026-07-28,20260529
+327,https://himalayas.app/companies/included-health/jobs/senior-data-analyst-performance-guarantees,"Senior Data Analyst, Performance Guarantees",261,2.0,,103710.0,136895.0,120302.5,USD,FULL_TIME,Remote,Not Specified,2026-06-13,2026-08-12,20260613
+328,https://himalayas.app/companies/comcast/jobs/business-intelligence-analyst-2-nightshift-wfh,Business Intelligence Analyst 2 (Nightshift - WFH),262,73.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-01,2026-08-30,20260701
+329,https://himalayas.app/companies/onemagnify/jobs/senior-data-analyst,Senior Data Analyst,263,,,,,,,FULL_TIME,Remote,Senior Level,2026-06-28,2026-08-27,20260628
+330,https://himalayas.app/companies/capgemini-technology-services/jobs/fbs-customer-data-analyst-8859929921,FBS Customer Data Analyst,43,9.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-28,2026-07-27,20260528
+331,https://himalayas.app/companies/bhg-financial/jobs/operations-analyst,Operations Analyst,264,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-01,2026-08-30,20260701
+332,https://himalayas.app/companies/clover-health/jobs/data-analyst-clinical-data-effectiveness,"Data Analyst, Clinical Data Effectiveness",178,2.0,,77000.0,100000.0,88500.0,USD,FULL_TIME,Remote,Mid Level,2026-07-05,2026-09-03,20260705
+333,https://himalayas.app/companies/photon-interactive-uk-limited/jobs/data-analyst_offshore-4415828580,Data Analyst_Offshore,265,1.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-27,2026-08-26,20260627
+334,https://himalayas.app/companies/overmind/jobs/data-analyst,Data Analyst,266,75.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-22,2026-07-21,20260522
+335,https://himalayas.app/companies/molina-healthcare/jobs/senior-analyst-data-analytics,"Senior Analyst, Data & Analytics",204,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-01,2026-08-30,20260701
+336,https://himalayas.app/companies/assistrx/jobs/data-analyst-bi-architecture-client-facing-experience-must,"Data Analyst BI Architecture, Client Facing Experience Must",188,2.0,,,,,,FULL_TIME,Hybrid,Mid Level,2026-06-15,2026-08-14,20260615
+337,https://himalayas.app/companies/spring-health/jobs/business-analyst-operations-analytics,"Business Analyst, Operations Analytics",227,2.0,,106500.0,118000.0,112250.0,USD,FULL_TIME,Remote,Mid Level,2026-07-02,2026-08-31,20260702
+338,https://himalayas.app/companies/smithrx/jobs/financial-analyst-account-management,"Financial Analyst, Account Management",165,80.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-26,2026-08-25,20260626
+339,https://himalayas.app/companies/capgemini-technology-services/jobs/fbs-data-analyst-i,FBS - Data Analyst I,43,9.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-05,2026-09-03,20260705
+340,https://himalayas.app/companies/lexisnexis/jobs/global-operations-data-analyst-iii,Global Operations Data Analyst III,72,19.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-22,2026-07-21,20260522
+341,https://himalayas.app/companies/antenna-group/jobs/senior-insights-analyst,Senior Insights Analyst,267,2.0,,60000.0,100000.0,80000.0,USD,FULL_TIME,Remote,Senior Level,2026-05-28,2026-07-27,20260528
+342,https://himalayas.app/companies/stride-inc/jobs/school-operations-data-specialist,School Operations Data Specialist,187,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-25,2026-08-24,20260625
+343,https://himalayas.app/companies/inetum/jobs/business-data-analyst-planet-fitness,Business Data Analyst ( Planet Fitness ),268,9.0,,44610.94,51474.16,48042.55,MXN,FULL_TIME,Remote,Not Specified,2026-06-29,2026-08-28,20260629
+344,https://himalayas.app/companies/brighton-health-plan-solutions/jobs/senior-data-analyst-clinical-programs,"Senior Data Analyst, Clinical Programs",269,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-26,2026-07-25,20260526
+345,https://himalayas.app/companies/loadsmart/jobs/senior-business-data-analyst-brokerage,"Senior Business Data Analyst, Brokerage",270,8.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-09,2026-07-08,20260509
+346,https://himalayas.app/companies/relx/jobs/global-operations-data-analyst-iii,Global Operations Data Analyst III,271,19.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-23,2026-07-22,20260523
+347,https://himalayas.app/companies/anaconda/jobs/senior-business-intelligence-analyst,Senior Business Intelligence Analyst,272,2.0,,107000.0,150000.0,128500.0,USD,FULL_TIME,Remote,Senior Level,2026-07-03,2026-09-01,20260703
+348,https://himalayas.app/companies/corrohealth/jobs/business-analyst-1644313970,Business Analyst,273,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-04,2026-09-02,20260704
+349,https://himalayas.app/companies/lendbuzz/jobs/product-analyst-operations-argentina,Product Analyst - Operations (Argentina),274,7.0,,46000.0,54000.0,50000.0,USD,FULL_TIME,Remote,Senior Level,2026-05-17,2026-07-16,20260517
+350,https://himalayas.app/companies/dacodes/jobs/marketing-business-analyst-1736140156,Marketing & Business Analyst,155,34.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-08,2026-07-07,20260508
+351,https://himalayas.app/companies/lennor/jobs/data-analyst-hybrid,Data Analyst - Hybrid,260,73.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-21,2026-07-20,20260521
+352,https://himalayas.app/companies/lennor-group/jobs/data-analyst-hybrid,Data Analyst - Hybrid,260,73.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-21,2026-07-20,20260521
+353,https://himalayas.app/companies/erg/jobs/occupational-safety-and-health-data-analyst,Occupational Safety and Health Data Analyst,275,2.0,,58000.0,70000.0,64000.0,USD,FULL_TIME,Remote,Not Specified,2026-05-23,2026-07-22,20260523
+354,https://himalayas.app/companies/printful/jobs/data-analyst,Data Analyst,182,95.0,,,,,,FULL_TIME,Remote,Mid Level,2026-04-19,2026-07-18,20260419
+355,https://himalayas.app/companies/fusemachines/jobs/data-analyst-5588964360,Data Analyst,30,9.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-05-17,2026-07-16,20260517
+356,https://himalayas.app/companies/public-consulting-group/jobs/sr-data-and-reporting-analyst,Sr Data and Reporting Analyst,276,2.0,,90000.0,100000.0,95000.0,USD,FULL_TIME,Remote,Senior Level,2026-05-23,2026-07-22,20260523
+357,https://himalayas.app/companies/davita-kidney-care/jobs/data-analyst-clinical-analytics-and-reporting,"Data Analyst, Clinical Analytics and Reporting",9,2.0,,57784.0,85000.0,71392.0,USD,FULL_TIME,Remote,Entry Level,2026-06-22,2026-08-21,20260622
+358,https://himalayas.app/companies/paired-so/jobs/marketing-bi-analyst-for-u-s-dtc-brand-remote-us-based,"Marketing BI Analyst for U.S. DTC Brand (Remote, US-Based)",177,73.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-22,2026-07-21,20260522
+359,https://himalayas.app/companies/arcadia-io/jobs/lead-analyst,Lead Analyst,277,2.0,,160000.0,185000.0,172500.0,USD,FULL_TIME,Remote,Senior Level,2026-05-31,2026-07-30,20260531
+360,https://himalayas.app/companies/trustonic/jobs/data-analyst,Data Analyst,278,149.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-26,2026-08-25,20260626
+361,https://himalayas.app/companies/averna/jobs/ai-savvy-data-analyst-3107637479,AI Savvy Data Analyst,112,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-31,2026-07-30,20260531
+362,https://himalayas.app/companies/stand-together/jobs/kap-2026-2027-academic-research-analyst-institute-of-humane-studies,KAP 2026-2027 - Academic Research Analyst - Institute of Humane Studies,279,2.0,,,,,,INTERN,Remote,Not Specified,2026-04-30,2026-07-29,20260430
+363,https://himalayas.app/companies/onclusive/jobs/corporate-data-analyst-asian-market-chinese-language-speaker,Corporate Data Analyst - Asian Market (Chinese Language Speaker),280,108.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-16,2026-07-15,20260516
+364,https://himalayas.app/companies/micro1/jobs/data-analyst-excel,Data Analyst (Excel),255,,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-20,2026-07-20,20260620
+365,https://himalayas.app/companies/gonift/jobs/senior-data-analyst-revenue-and-growth,"Senior Data Analyst, Revenue and Growth",281,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-04-20,2026-07-19,20260420
+366,https://himalayas.app/companies/abbott/jobs/senior-sales-analyst-sam-s-club-rogers-ar-9442898944,"Senior Sales Analyst - Sam's Club - Rogers, AR",282,2.0,,68000.0,136000.0,102000.0,USD,FULL_TIME,Remote,Mid Level,2026-07-02,2026-08-31,20260702
+367,https://himalayas.app/companies/social-discovery-ventures/jobs/marketing-analyst,Marketing Analyst,68,83.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-15,2026-08-14,20260615
+368,https://himalayas.app/companies/gtnr/jobs/specialist-contract-pricing-analysis-benchmarking,Specialist (Contract Pricing Analysis & Benchmarking),283,1.0,,,,,,TEMPORARY,Remote,Not Specified,2026-05-21,2026-07-20,20260521
+369,https://himalayas.app/companies/lightcast/jobs/lead-research-analyst-1013,Lead Research Analyst - 1013,284,139.0,,,,,,FULL_TIME,Remote,Senior Level,2026-04-30,2026-07-29,20260430
+370,https://himalayas.app/companies/scan/jobs/marketing-analytics-analyst-sr,"Marketing Analytics Analyst, Sr.",285,2.0,,80300.0,138330.0,109315.0,USD,FULL_TIME,Remote,Senior Level,2026-06-25,2026-08-24,20260625
+371,https://himalayas.app/companies/829-studios/jobs/bi-analyst,BI Analyst,286,2.0,,80000.0,90000.0,85000.0,USD,FULL_TIME,Remote,Not Specified,2026-06-24,2026-08-23,20260624
+372,https://himalayas.app/companies/stride-inc/jobs/data-science-analyst,Data Science Analyst,187,2.0,,57519.75,82000.0,69759.875,USD,FULL_TIME,Remote,Mid Level,2026-06-26,2026-08-25,20260626
+373,https://himalayas.app/companies/jeeves/jobs/revenue-operations-analyst,Revenue Operations Analyst,287,7.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-17,2026-07-16,20260517
+374,https://himalayas.app/companies/smallpdf/jobs/principal-data-analyst-growth-product,Principal Data Analyst: Growth & Product,288,99.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-13,2026-07-12,20260513
+375,https://himalayas.app/companies/libertexgroup/jobs/data-analyst,Data Analyst,25,3.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-19,2026-07-18,20260519
+376,https://himalayas.app/companies/damia-group/jobs/data-analyst-with-alteryx,Data Analyst (with Alteryx),139,89.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-22,2026-07-21,20260522
+377,https://himalayas.app/companies/icon-health/jobs/senior-data-analyst-3270922447,Senior Data Analyst,289,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-05-28,2026-07-27,20260528
+378,https://himalayas.app/companies/octave/jobs/sr-data-analyst-providers,"Sr. Data Analyst, Providers",290,90.0,,132100.0,164000.0,148050.0,USD,FULL_TIME,Remote,Senior Level,2026-05-24,2026-07-23,20260524
+379,https://himalayas.app/companies/autodoc/jobs/senior-data-analyst,Senior Data Analyst,291,3.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-04,2026-08-03,20260604
+380,https://himalayas.app/companies/tabby/jobs/senior-data-analyst-cx-1402511280,Senior Data Analyst (CX),169,77.0,,,,,,FULL_TIME,Remote,Mid Level,2026-05-22,2026-07-21,20260522
+381,https://himalayas.app/companies/trengo/jobs/data-analyst,Data Analyst,292,13.0,,,,,,FULL_TIME,Hybrid,Not Specified,2026-05-21,2026-07-20,20260521
+382,https://himalayas.app/companies/dtn/jobs/market-data-analyst,Market Data Analyst,293,2.0,,62000.0,82000.0,72000.0,USD,FULL_TIME,Remote,Not Specified,2026-06-12,2026-08-11,20260612
+383,https://himalayas.app/companies/ablefy/jobs/data-analyst-mid-or-senior-level-f-m-x,Data Analyst - mid or senior level (F/M/X),294,6.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-10,2026-07-09,20260510
+384,https://himalayas.app/companies/sporty-group/jobs/bi-analyst-8055702295,BI Analyst,295,,,,,,,FULL_TIME,Remote,Mid Level,2026-06-22,2026-08-21,20260622
+385,https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-fd02579-data-analyst,XTN-FD02579 | DATA ANALYST,50,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-04-12,2026-07-11,20260412
+386,https://himalayas.app/companies/datacatalyst-llc/jobs/mdm-data-mapping-analyst-sr-consultant-level,MDM Data Mapping Analyst (Sr Consultant Level),296,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-08,2026-08-07,20260608
+387,https://himalayas.app/companies/blue-cross-blue-shield-of-arizona/jobs/analyst-analytics-and-data-science-ii-iii,Analyst- Analytics and Data Science II-III,297,2.0,,,,,,FULL_TIME,Hybrid,Entry Level,2026-06-29,2026-08-28,20260629
+388,https://himalayas.app/companies/jerseystem/jobs/data102-data-analytics-engineer-mysql-looker,"DATA102: Data Analytics Engineer (MySQL, Looker)",298,2.0,,,,,,OTHER,Remote,Not Specified,2026-06-27,2026-08-26,20260627
+389,https://himalayas.app/companies/datasmart-point/jobs/data-management-ai-analyst-im-gesundheitswesen-m-w-d-data-management-100-r,"Data Management & AI Analyst im Gesundheitswesen (m/w/d) Data Management, 100% R",299,6.0,,58901.42,76708.83,67805.125,EUR,INTERN,Hybrid,Not Specified,2026-06-29,2026-08-28,20260629
+390,https://himalayas.app/companies/kainos/jobs/lead-data-analyst-1014426644,Lead Data Analyst,300,4.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-01,2026-08-30,20260701
+391,https://himalayas.app/companies/upgrade/jobs/junior-business-data-analyst,Junior Business & Data Analyst,301,2.0,,75000.0,95000.0,85000.0,USD,FULL_TIME,Remote,Mid Level,2026-07-02,2026-08-31,20260702
+392,https://himalayas.app/companies/wiredpeople-inc/jobs/data-governance-analyst,Data Governance Analyst,302,2.0,,,,,,FULL_TIME,Remote,Entry Level,2026-05-20,2026-07-19,20260520
+393,https://himalayas.app/companies/proarch/jobs/data-analyst-powerbi-engineer-5332378485,Data Analyst/PowerBI Engineer,226,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+394,https://himalayas.app/companies/sequoia-connect/jobs/senior-data-analyst-gcp-bigquery,Senior Data Analyst - GCP/ BigQuery,303,9.0,,,,,,FULL_TIME,Remote,Senior Level,2026-04-24,2026-07-23,20260424
+395,https://himalayas.app/companies/libra-solutions/jobs/strategy-analyst,Strategy Analyst,304,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-05,2026-09-03,20260705
+396,https://himalayas.app/companies/eclerx/jobs/data-analyst-hris-au,Data Analyst (HRIS) - AU,305,73.0,,,,,,FULL_TIME,Remote,Mid Level,2026-05-28,2026-07-27,20260528
+397,https://himalayas.app/companies/dentsu-international/jobs/lead-analyst-analytics-9633706268,"Lead Analyst, Analytics",306,2.0,,72000.0,120000.0,96000.0,USD,FULL_TIME,Remote,Senior Level,2026-07-02,2026-08-31,20260702
+398,https://himalayas.app/companies/remote-recruitment/jobs/marketing-analyst-8554161839,Marketing Analyst,307,19.0,,20696.54,20696.54,20696.54,ZAR,FULL_TIME,Remote,Mid Level,2026-07-06,2026-09-04,20260706
+399,https://himalayas.app/companies/bh-properties/jobs/data-analyst,Data Analyst,308,73.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-05,2026-09-03,20260705
+400,https://himalayas.app/companies/tabby/jobs/senior-data-analyst-cx-3552240297,Senior Data Analyst (CX),169,3.0,,,,,,FULL_TIME,Remote,Mid Level,2026-05-22,2026-07-21,20260522
+401,https://himalayas.app/companies/javvy-coffee/jobs/data-analyst,Data Analyst,309,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-23,2026-08-22,20260623
+402,https://himalayas.app/companies/spring-health/jobs/data-analyst-ii-core-ops-alma,"Data Analyst II, Core Ops (Alma)",227,2.0,,101200.0,115000.0,108100.0,USD,FULL_TIME,Remote,Mid Level,2026-07-04,2026-09-02,20260704
+403,https://himalayas.app/companies/us-federal-solutions/jobs/data-analyst-2689782851,Data Analyst,310,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-29,2026-08-28,20260629
+404,https://himalayas.app/companies/relx/jobs/data-analyst-drug-product-content,"Data Analyst, Drug Product Content",271,2.0,,53900.0,89800.0,71850.0,USD,FULL_TIME,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+405,https://himalayas.app/companies/lennor/jobs/data-analyst-hybrid-7454350066,Data Analyst - Hybrid,260,85.0,,500000.0,800000.0,650000.0,USD,FULL_TIME,Remote,Not Specified,2026-05-26,2026-07-25,20260526
+406,https://himalayas.app/companies/micro1/jobs/financial-data-analyst,Financial Data Analyst,255,,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-21,2026-07-21,20260621
+407,https://himalayas.app/companies/netomi/jobs/lead-business-analyst,Lead Business Analyst,38,1.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-14,2026-07-13,20260514
+408,https://himalayas.app/companies/children-s-wisconsin/jobs/data-analyst-iii,Data Analyst III,311,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-07-03,2026-09-01,20260703
+409,https://himalayas.app/companies/opensesame/jobs/customer-success-operations-analyst,Customer Success Operations Analyst,312,80.0,,110000.0,120000.0,115000.0,USD,FULL_TIME,Remote,Not Specified,2026-05-11,2026-07-10,20260511
+410,https://himalayas.app/companies/airslate/jobs/senior-data-analyst-1069183041,Senior Data Analyst,313,3.0,,,,,,FULL_TIME,Hybrid,Not Specified,2026-07-04,2026-09-02,20260704
+411,https://himalayas.app/companies/micro1/jobs/data-analyst,Data Analyst,255,,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-24,2026-07-24,20260624
+412,https://himalayas.app/companies/mission-lane/jobs/staff-data-analyst,Staff Data Analyst,314,2.0,,145000.0,155000.0,150000.0,USD,FULL_TIME,Remote,Senior Level,2026-06-02,2026-08-01,20260602
+413,https://himalayas.app/companies/pavago/jobs/financial-data-analyst-4122137866,Financial & Data Analyst,115,7.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-14,2026-07-13,20260514
+414,https://himalayas.app/companies/berkeley-square-it/jobs/dashboards-data-digital-analyst-engineer,"Dashboards, Data & Digital Analyst/Engineer",315,2.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-12,2026-08-11,20260612
+415,https://himalayas.app/companies/reserv/jobs/sr-data-analyst-transport,Sr. Data Analyst - Transport,316,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-21,2026-08-20,20260621
+416,https://himalayas.app/companies/openly/jobs/staff-analyst-operational-analytics-reporting-remote-us,"Staff Analyst - Operational Analytics & Reporting (Remote, US)",317,2.0,,129280.0,153250.0,141265.0,USD,FULL_TIME,Remote,Not Specified,2026-05-30,2026-07-29,20260530
+417,https://himalayas.app/companies/paired-so/jobs/senior-data-analyst-marketing-focus-at-beautytech-dtc-brand-remote-eu-based-8221045272,"Senior Data Analyst (Marketing Focus) at BeautyTech DTC Brand (Remote, EU-based)",177,77.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-30,2026-07-29,20260530
+418,https://himalayas.app/companies/tabby/jobs/senior-marketing-analyst-marketing-analytics,"Senior Marketing Analyst, Marketing Analytics",169,,,,,,,FULL_TIME,Remote,Mid Level,2026-06-12,2026-09-09,20260612
+419,https://himalayas.app/companies/advantage-ontario-advancing-senior-care/jobs/salesforce-data-analyst-contract-to-mid-december,Salesforce Data Analyst – Contract to mid-December,318,5.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-07-01,2026-08-30,20260701
+420,https://himalayas.app/companies/paired-so/jobs/senior-data-analyst-marketing-focus-at-beautytech-dtc-brand-remote-eu-based-945090844,"Senior Data Analyst (Marketing Focus) at BeautyTech DTC Brand (Remote, EU-based)",177,97.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-22,2026-07-21,20260522
+421,https://himalayas.app/companies/cu-medicine/jobs/epic-clarity-data-analyst,Epic Clarity Data Analyst,319,2.0,,90000.0,100000.0,95000.0,USD,FULL_TIME,Remote,Not Specified,2026-05-15,2026-07-14,20260515
+422,https://himalayas.app/companies/200510503z-thermo-fisher-scientific-pte-ltd/jobs/data-analyst-i-in-patient-centered-research,Data Analyst I in Patient-Centered Research,320,9.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-03,2026-08-02,20260603
+423,https://himalayas.app/companies/linktree/jobs/marketing-analyst,Marketing Analyst,199,19.0,,384000.0,384000.0,384000.0,USD,FULL_TIME,Remote,Not Specified,2026-05-08,2026-07-07,20260508
+424,https://himalayas.app/companies/arkatechture/jobs/lead-analyst,Lead Analyst,321,1.0,,95000.0,125000.0,110000.0,USD,FULL_TIME,Remote,Lead/Principal,2026-07-04,2026-09-02,20260704
+425,https://himalayas.app/companies/tuesday-health/jobs/data-analyst-clinical-operations,"Data Analyst, Clinical Operations",322,80.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-07,2026-08-06,20260607
+426,https://himalayas.app/companies/assistrx/jobs/data-reporting-analyst-healthtech,Data Reporting Analyst (HealthTech),188,2.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-03,2026-09-01,20260703
+427,https://himalayas.app/companies/inetum/jobs/analista-de-datos-jr,Analista de Datos Jr.,268,55.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-28,2026-08-27,20260628
+428,https://himalayas.app/companies/ci-t/jobs/job-29337-senior-data-analyst-brazil,"[Job - 29337] Senior Data Analyst, Brazil",118,8.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-20,2026-07-19,20260520
+429,https://himalayas.app/companies/autodesk/jobs/senior-marketing-insights-analyst,Senior Marketing Insights Analyst,323,2.0,,102000.0,182710.0,142355.0,USD,FULL_TIME,Remote,Senior Level,2026-06-27,2026-08-26,20260627
+430,https://himalayas.app/companies/european-dynamics/jobs/data-analyst-power-bi-specialist-71870579,Data Analyst - Power BI Specialist,324,123.0,,,,,,FULL_TIME,Remote,Mid Level,2026-05-08,2026-07-07,20260508
+431,https://himalayas.app/companies/lennor-group/jobs/data-analyst-hybrid-7251141313,Data Analyst - Hybrid,260,85.0,,500000.0,800000.0,650000.0,USD,FULL_TIME,Hybrid,Not Specified,2026-05-26,2026-07-25,20260526
+432,https://himalayas.app/companies/speedlinehub/jobs/data-analyst-antifraud,Data Analyst (Antifraud),325,80.0,,,,,,FULL_TIME,Remote,Mid Level,2026-07-04,2026-09-02,20260704
+433,https://himalayas.app/companies/teladoc-health/jobs/senior-data-analyst-argentina,"Senior, Data Analyst - Argentina",326,7.0,,,,,,FULL_TIME,Remote,Lead/Principal,2026-07-02,2026-08-31,20260702
+434,https://himalayas.app/companies/teya/jobs/data-analyst-payments-9365659183,Data Analyst (Payments),327,4.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-02,2026-08-01,20260602
+435,https://himalayas.app/companies/imex-cargo/jobs/data-analyst-intern,Data Analyst Intern,328,2.0,,,,,,INTERN,Remote,Not Specified,2026-04-19,2026-07-18,20260419
+436,https://himalayas.app/companies/hirelago/jobs/marketplace-reporting-specialist-6951794895,Marketplace Reporting Specialist,329,14.0,,18000.0,26000.0,22000.0,USD,FULL_TIME,Remote,Not Specified,2026-05-24,2026-07-23,20260524
+437,https://himalayas.app/companies/drivetrain/jobs/business-analyst-customer-platform,Business Analyst - Customer Platform,330,1.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-03,2026-09-01,20260703
+438,https://himalayas.app/companies/navitus-health-solutions/jobs/sr-analyst-data-governance,"Sr. Analyst, Data Governance",331,2.0,,85063.95,104372.94,94718.445,USD,FULL_TIME,Remote,Senior Level,2026-05-27,2026-07-26,20260527
+439,https://himalayas.app/companies/navitus-health-solutions/jobs/sr-data-analyst-pharmacy-network,"Sr. Data Analyst, Pharmacy Network",331,2.0,,58460.48,70434.31,64447.395,USD,FULL_TIME,Remote,Mid Level,2026-05-14,2026-07-13,20260514
+440,https://himalayas.app/companies/providence/jobs/principal-data-analyst-revenue-cycle-remote,Principal Data Analyst - Revenue Cycle - Remote,332,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+441,https://himalayas.app/companies/sarnova/jobs/data-analyst-cardio-partners-remote,Data Analyst - Cardio Partners - Remote,333,80.0,,,,,,FULL_TIME,Remote,Mid Level,2026-04-26,2026-07-24,20260426
+442,https://himalayas.app/companies/next-move-healthcare/jobs/hris-data-analyst,HRIS Data Analyst﻿,334,2.0,,80000.0,90000.0,85000.0,USD,FULL_TIME,Remote,Not Specified,2026-06-06,2026-08-05,20260606
+443,https://himalayas.app/companies/gohenry/jobs/data-analyst,Data Analyst,335,4.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-09,2026-07-08,20260509
+444,https://himalayas.app/companies/reserv/jobs/sr-data-analyst-data-model-regulatory,Sr. Data Analyst - Data Model Regulatory,316,2.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-20,2026-08-19,20260620
+445,https://himalayas.app/companies/public-service-division/jobs/contract-senior-analyst-data-pilots-data-exploration-and-partnerships,"Contract Senior Analyst Data Pilots, Data Exploration and Partnerships",336,75.0,,,,,,TEMPORARY,Remote,Not Specified,2026-05-29,2026-07-28,20260529
+446,https://himalayas.app/companies/habitat-health/jobs/sr-data-analyst-reporting,"Sr. Data Analyst, Reporting",337,2.0,,110000.0,132000.0,121000.0,USD,FULL_TIME,Remote,Mid Level,2026-05-16,2026-07-15,20260516
+447,https://himalayas.app/companies/tabby/jobs/senior-data-analyst-cx-3864958207,Senior Data Analyst (CX),169,89.0,,,,,,FULL_TIME,Remote,Mid Level,2026-05-22,2026-07-21,20260522
+448,https://himalayas.app/companies/truelogic-io/jobs/senior-data-analyst-travel-entertainment-colombia,Senior Data Analyst – Travel Entertainment (Colombia),143,14.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-17,2026-07-16,20260517
+449,https://himalayas.app/companies/zippi/jobs/business-analyst-ba,Business Analyst (BA),338,8.0,,,,,,FULL_TIME,Remote,Not Specified,2026-07-06,2026-09-04,20260706
+450,https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/freelancer-business-analyst-for-google-cloud-platform-2055252840,Freelancer Business Analyst for Google Cloud Platform,87,1.0,,,,,,CONTRACTOR,Remote,Mid Level,2026-06-28,2026-08-27,20260628
+451,https://himalayas.app/companies/qs-quacquarelli-symonds/jobs/senior-data-analyst,Senior Data Analyst,339,39.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-06-24,2026-08-23,20260624
+452,https://himalayas.app/companies/pearl-health/jobs/data-analyst-aco-operations-part-time-contract,"Data Analyst, ACO Operations - Part time, Contract",340,2.0,,100000.0,100000.0,100000.0,USD,FULL_TIME,Remote,Not Specified,2026-05-14,2026-07-13,20260514
+453,https://himalayas.app/companies/kyivstar/jobs/big-data-analyst,Big Data Analyst,341,78.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-14,2026-07-13,20260514
+454,https://himalayas.app/companies/tiger-analytics/jobs/data-analyst-financial-planning-and-analysis-canada,Data Analyst (Financial Planning and Analysis) - Canada,342,5.0,,,,,,FULL_TIME,Remote,Senior Level,2026-06-21,2026-08-20,20260621
+455,https://himalayas.app/companies/aimpoint-digital/jobs/internal-reporting-analyst-2026-col,Internal Reporting Analyst 2026 - COL,343,14.0,,,,,,FULL_TIME,Remote,Mid Level,2026-06-05,2026-08-04,20260605
+456,https://himalayas.app/companies/buxton/jobs/predictive-data-analyst-contract-position-12-months,Predictive Data Analyst (Contract Position - 12 months),344,2.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-05-29,2026-07-28,20260529
+457,https://himalayas.app/companies/paired-so/jobs/domo-bi-analyst-at-dtc-e-commerce-brand-remote-us-based,"Domo BI Analyst at DTC E-commerce Brand (Remote, US-based)",177,8.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-09,2026-07-08,20260509
+458,https://himalayas.app/companies/health-network-one/jobs/lead-clinical-analyst,Lead Clinical Analyst,345,2.0,,90000.0,100000.0,95000.0,USD,FULL_TIME,Remote,Senior Level,2026-06-24,2026-08-23,20260624
+459,https://himalayas.app/companies/guidehouse/jobs/program-services-analyst,Program Services Analyst,346,2.0,,61000.0,101000.0,81000.0,USD,FULL_TIME,Remote,Mid Level,2026-07-03,2026-09-01,20260703
+460,https://himalayas.app/companies/ats-rippling/jobs/data-analyst-76225397,Data Analyst,347,2.0,,,,,,FULL_TIME,Remote,Not Specified,2026-05-22,2026-07-21,20260522
+461,https://himalayas.app/companies/netbrain/jobs/data-analyst,Data Analyst,348,2.0,,130000.0,155000.0,142500.0,USD,FULL_TIME,Hybrid,Senior Level,2026-07-02,2026-08-31,20260702
+462,https://himalayas.app/companies/eastwood-cleef-llc/jobs/senior-data-analyst,Senior Data Analyst,349,2.0,,41600.0,72800.0,57200.0,USD,FULL_TIME,Remote,Senior Level,2026-04-18,2026-07-17,20260418
+463,https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-english-speaker-in-uk-7909530795,Online Data Analyst - English speaker in UK,202,4.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+464,https://himalayas.app/companies/telus-digital/jobs/remote-online-data-analyst-dutch-belgium,Remote Online Data Analyst - Dutch (Belgium),202,11.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+465,https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-german-at,Online Data Analyst - German (AT),202,74.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+466,https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-english-us,Online Data Analyst - English US,202,2.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+467,https://himalayas.app/companies/connectprep/jobs/data-analyst-internship-9516406824,Data Analyst Internship,350,2.0,,,,,,INTERN,Hybrid,Not Specified,2026-07-05,2026-09-03,20260705
+468,https://himalayas.app/companies/telus-digital/jobs/remote-online-data-analyst-polish-pl,Remote Online Data Analyst - Polish (PL),202,3.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-07-05,2026-09-03,20260705
+469,https://himalayas.app/companies/telus-digital/jobs/remote-online-data-analyst-german-ch,Remote Online Data Analyst - German (CH),202,99.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-07-04,2026-09-02,20260704
+470,https://himalayas.app/companies/berkeley-research-group/jobs/data-analyst-8101026040,Data Analyst,351,2.0,,80000.0,100000.0,90000.0,USD,FULL_TIME,Remote,Not Specified,2026-06-22,2026-08-21,20260622
+471,https://himalayas.app/companies/telus-digital/jobs/remote-online-data-analyst-dutch-nl,Remote Online Data Analyst - Dutch (NL),202,13.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-07-05,2026-09-03,20260705
+472,https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-hebrew-il,Online Data Analyst - Hebrew (IL),202,84.0,,,,,,CONTRACTOR,Remote,Not Specified,2026-07-05,2026-09-03,20260705
+473,https://himalayas.app/companies/crowdstrike/jobs/data-analyst-remote-rou,"Data Analyst (Remote, ROU)",352,97.0,,,,,,FULL_TIME,Remote,Not Specified,2026-06-03,2026-08-02,20260603
