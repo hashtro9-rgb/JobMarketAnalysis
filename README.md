@@ -10,6 +10,15 @@ EDA notebook, two self-contained HTML dashboards, and a Power BI report spec
 [CHANGELOG.md](CHANGELOG.md)). 473 postings scraped, cleaned, loaded, modeled,
 visualized, and analyzed end to end.
 
+**Live dashboards** (via GitHub Pages — see [`.github/workflows/pages.yml`](.github/workflows/pages.yml)):
+
+- 🔗 **[Executive Dashboard](https://hashtro9-rgb.github.io/JobMarketAnalysis/executive_dashboard.html)** — self-contained, cross-filterable
+- 🔗 **[Fetch-based Dashboard](https://hashtro9-rgb.github.io/JobMarketAnalysis/)** — 6-tab dark BI theme
+
+> First deploy needs a one-time manual step: repo **Settings → Pages → Build
+> and deployment → Source → GitHub Actions**. The workflow then deploys
+> automatically on every push that touches `dashboard/`.
+
 ---
 
 ## Table of Contents
@@ -279,13 +288,13 @@ Insights) are specified in
 
 ## Analytical Surfaces
 
-| Surface | File | Description |
-|---|---|---|
-| **EDA notebook** | `notebooks/eda.ipynb` (`dashboard/eda_report.html` for the executed export) | Plotly, 14 sections: hiring companies, skills, job titles, geography, experience mix, remote/hybrid split, salary, salary-by-experience, skill combinations, monthly trend, key insights, next steps |
-| **Fetch-based dashboard** | `dashboard/index.html` | 6 tabs (Overview/Skills/Salary/Geography/Trends/Jobs), loads 9 pre-aggregated JSON files, dark BI theme |
-| **Executive dashboard** | `dashboard/executive_dashboard.html` | Single self-contained file, no external data fetches — embeds raw postings + country-eligibility data and computes every chart client-side, so Experience/Work Setup/Country filters recompute everything live. Includes an executive-summary insight panel. |
-| **Power BI report** | Spec in `docs/powerbi_design_spec.md` + data in `dashboard/powerbi_data/` | 7-page report spec (a `.pbix` is a proprietary binary and can't be committed as source, so the spec + ready-to-import CSVs are the deliverable) |
-| **Written analysis** | `docs/market_analysis.md` | Quantified findings, skill pay premiums, experience-level compensation curve, and self-audited data-quality issues |
+| Surface | File | Live link | Description |
+|---|---|---|---|
+| **EDA notebook** | `notebooks/eda.ipynb` (`dashboard/eda_report.html` for the executed export) | [eda_report.html](https://hashtro9-rgb.github.io/JobMarketAnalysis/eda_report.html) | Plotly, 14 sections: hiring companies, skills, job titles, geography, experience mix, remote/hybrid split, salary, salary-by-experience, skill combinations, monthly trend, key insights, next steps |
+| **Fetch-based dashboard** | `dashboard/index.html` | [index.html](https://hashtro9-rgb.github.io/JobMarketAnalysis/) | 6 tabs (Overview/Skills/Salary/Geography/Trends/Jobs), loads 9 pre-aggregated JSON files, dark BI theme |
+| **Executive dashboard** | `dashboard/executive_dashboard.html` | [executive_dashboard.html](https://hashtro9-rgb.github.io/JobMarketAnalysis/executive_dashboard.html) | Single self-contained file, no external data fetches — embeds raw postings + country-eligibility data and computes every chart client-side, so Experience/Work Setup/Country filters recompute everything live. Includes an executive-summary insight panel. |
+| **Power BI report** | Spec in `docs/powerbi_design_spec.md` + data in `dashboard/powerbi_data/` | — (`.pbix` can't be hosted as a static page) | 7-page report spec (a `.pbix` is a proprietary binary and can't be committed as source, so the spec + ready-to-import CSVs are the deliverable) |
+| **Written analysis** | `docs/market_analysis.md` | [market_analysis.md](docs/market_analysis.md) | Quantified findings, skill pay premiums, experience-level compensation curve, and self-audited data-quality issues |
 
 ---
 
@@ -347,10 +356,11 @@ build step) · Power BI Desktop (BI report)
 ## Roadmap / Not Yet Built
 
 The original scaffold reserved `.github/workflows/`, `tests/`, and `assets/`
-directories for CI + scheduled scraper runs, automated tests, and chart
-exports — these are placeholders for future work and are currently empty
-(git doesn't track empty directories, so they won't appear in a fresh clone
-until populated). Honest status, not a hidden gap:
+directories for CI, automated tests, and chart exports. `.github/workflows/`
+now has one workflow (`pages.yml`, deploys the dashboards to GitHub Pages);
+`tests/` and `assets/` are still empty placeholders (git doesn't track empty
+directories, so they won't appear in a fresh clone until populated). Honest
+status, not a hidden gap:
 
 - [ ] Unit tests for the cleaning/salary-normalization logic
 - [ ] GitHub Actions workflow to re-run the scraper on a schedule

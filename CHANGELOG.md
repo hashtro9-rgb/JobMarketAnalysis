@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.8.0 — 2026-07-07
+
+GitHub Pages deployment (`.github/workflows/pages.yml`) publishing both HTML
+dashboards as a live site, and a full README rewrite with live dashboard
+links, complete architecture diagram, data dictionary, and per-stage run
+instructions.
+
 ## v0.7.1 — 2026-07-07
 
 Market analysis writeup (`docs/market_analysis.md`) — skill pay premiums,
