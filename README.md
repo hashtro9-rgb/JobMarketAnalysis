@@ -1,4 +1,4 @@
-# Job Market Intelligence Dashboard
+# Job Market Intelligence ANALYSIS
 
 A full, working data engineering + BI pipeline: it scrapes live Data Analyst
 job postings, cleans and normalizes them into a relational database, and
