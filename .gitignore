@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+*.egg-info
+dist/
+build/
+.DS_Store
+node_modules/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Raw scrape dumps stay local -- only cleaned data + the final DB are committed
+data/raw/*
+
+# Logs are runtime artifacts, not source
+logs/*.log

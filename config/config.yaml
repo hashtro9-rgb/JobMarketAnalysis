@@ -1,0 +1,52 @@
+# JobMarketAnalysis configuration
+# Central place for every tunable setting -- scripts should read from here,
+# not hardcode values.
+
+scraper:
+  # Himalayas.app permits scraping (robots.txt: Allow: /, with job-specific
+  # sitemaps). Exact search URL confirmed during Stage 2.
+  base_url: "https://himalayas.app"
+  search_path: "/jobs/data-analyst"     # placeholder, verified in Stage 2
+  user_agent: "JobMarketAnalysis-Portfolio-Bot/1.0 (personal research project; contact: gabriel.alegre.cana@example.com)"
+  request_delay_seconds: 2.0            # min delay between requests, be a polite scraper
+  max_retries: 3
+  backoff_factor: 2.0                   # exponential backoff multiplier between retries
+  timeout_seconds: 20
+  max_pages_per_run: 30                 # observed real max ~26 pages; small buffer
+
+paths:
+  raw_dir: "data/raw"
+  cleaned_dir: "data/cleaned"
+  database_path: "database/job_market.db"
+  logs_dir: "logs"
+
+database:
+  echo_sql: false   # set true to debug SQLAlchemy-generated SQL
+
+skills:
+  # Detected via case-insensitive keyword match against job description + title.
+  # Extend this list as new tools show up in postings.
+  keywords:
+    - SQL
+    - Python
+    - Excel
+    - Power BI
+    - Tableau
+    - R
+    - Snowflake
+    - AWS
+    - Azure
+    - Google Cloud
+    - Spark
+    - Pandas
+    - NumPy
+    - Machine Learning
+    - Statistics
+    - ETL
+    - Git
+    - Docker
+
+logging:
+  level: "INFO"
+  rotate_max_bytes: 5_000_000
+  rotate_backup_count: 5
