@@ -15,3 +15,8 @@ salary (live FX), long-format country/skill tables.
 Normalized SQLite database (`scripts/models.py`, `load_database.py`) —
 Jobs/Companies/Skills/Locations + JobSkills/JobLocations junctions,
 idempotent loader.
+## v0.5.0 — 2026-07-07
+
+EDA notebook (`notebooks/eda.ipynb`) — Plotly, executed end-to-end with real
+outputs across pricing, sales, skills, geography, salary, and hiring-trend
+analyses.
