@@ -10,3 +10,8 @@ extraction, resumable/incremental, retry with backoff. 473 postings collected.
 
 Cleaning pipeline (`scripts/clean.py`) — dedup, currency/period-normalized
 salary (live FX), long-format country/skill tables.
+## v0.4.0 — 2026-07-07
+
+Normalized SQLite database (`scripts/models.py`, `load_database.py`) —
+Jobs/Companies/Skills/Locations + JobSkills/JobLocations junctions,
+idempotent loader.
