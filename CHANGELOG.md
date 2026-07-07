@@ -26,3 +26,12 @@ Power BI data layer: 11 analytical SQL views (`database/views.sql`), a
 star-schema CSV export with a generated Date dimension
 (`dashboard/powerbi_data/`), and a full page-by-page report design spec
 (`docs/powerbi_design_spec.md`).
+## v0.7.0 — 2026-07-07
+
+Executive dashboard (`dashboard/executive_dashboard.html`) — single self-contained
+HTML file (Chart.js via CDN, no build step), rebuilt from the raw job postings
+rather than pre-aggregated exports so cross-cutting filters (experience, work
+setup, country) recompute every KPI and chart consistently. Adds an executive
+summary panel with headline insights, and corrects country-demand figures to
+count all countries a remote posting is eligible in (not just one "primary"
+country per posting).
